@@ -1,6 +1,6 @@
 # Tutorials_For_Mentoring
 
-## Part 1: Mastering R Programming for Mentees with univariate and bivariate analysis
+## Part 1: Mastering R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
 
 ## Part 2: Time series Forecasting
