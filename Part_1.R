@@ -1,7 +1,7 @@
 # ------------------------------------------------------------
 # Part 1 - Mastering using R Programming
 # Kamal Mishra
-# Updated - 2015
+# Last Updated - Dec/2015
 # ------------------------------------------------------------
 
 
@@ -116,6 +116,5 @@ varIncome[varIncome < quantile(varIncome, 0.05)] <- quantile(varIncome, 0.05)
 # you can impute missing value of categorical variable with mode
 
 
-
-
-
+# Ends
+# ------------------------------------------------------------
