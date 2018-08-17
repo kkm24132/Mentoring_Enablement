@@ -1,6 +1,9 @@
 # Tutorials_For_Mentoring
 
-## Mastering R Programming for Mentoring purposes
+## Part 1: Mastering R Programming for Mentees with univariate and bivariate analysis
+These are program components which are used for mentoring purposes
+
+## Part 2: Time series Forecasting
 These are program components which are used for mentoring purposes
 
 ## Predict Web Page Tags based on its content
