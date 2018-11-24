@@ -32,13 +32,21 @@ Healthcare and Life sciences:
 * Disease identification and risk stratification
 * Healthcare provider sentiment analysis
 ```
-Travel and Hospitality
+Travel and Hospitality:
 ```
 * Price optimization, Dynamic pricing
 * Aircraft scheduling
 * Social media consumer feedback and interaction analysis
 * Customer complaint resolution
 * Traffic patterns and congestion management, route optimization
+```
+Manufacturing:
+```
+* Predictive maintenance
+* Demand forecasting
+* Process optimization
+* Telematics
+* Warranty analytics (Warranty reserve estimation)
 ```
 
 ### Part 1: R Programming with univariate and bivariate analysis
