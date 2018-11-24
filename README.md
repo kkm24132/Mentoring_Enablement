@@ -1,4 +1,4 @@
-## Tutorials_For_Mentoring
+## Tutorials For Mentoring
 
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
@@ -91,3 +91,17 @@ Basically given the complete html and url, predict the tag a web page belongs to
 * Guidelines
 * Others
 
+### Computer Vision
+Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
+Some applications of Computer Vision are as follows:
+```
+* Controlling processes
+* Navigation
+* Organizing set of information
+* Automatic inspection
+* Modeling objects or environments
+* Detecting events
+* Recognize objects
+* Recognize actions
+* Track objects in action
+```
