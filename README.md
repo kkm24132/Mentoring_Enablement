@@ -2,6 +2,8 @@
 
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
+![plot of chunk crisp-dm](/figures/crisp-dm.PNG)
+
 ### Industry Use Case scenarios across Machine Learning
 
 Banking and Financial Services:
