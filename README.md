@@ -1,12 +1,34 @@
-# Tutorials_For_Mentoring
+## Tutorials_For_Mentoring
 
-## Part 1: R Programming with univariate and bivariate analysis
+The Use case scenarios across industry for Machine Learning is as follows:
+
+Banking and Financial Services
+```
+* Customer segmentation, customer micro segmentation
+* Risk analytics and regulation, compliance
+* Cross selling and up selling
+* Predictive maintenance
+* Customer Life time value analysis
+* Sales and marketing campaign management
+* Evaluation of Credit worthiness
+```
+Retail
+```
+* Predictive inventory planning, Predictive maintenance
+* Recommendation engines
+* Upsell and cross channel marketing
+* Market segmentation and targeting
+* Market basket analysis with association rules
+* Customer ROI and Life time value analysis
+```
+
+### Part 1: R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
 
-## Part 2: Time series Forecasting in R
+### Part 2: Time series Forecasting in R
 These are program components which are used for mentoring purposes
 
-## Predict Web Page Tags based on its content
+### Predict Web Page Tags based on its content
 Classification of Web page content is vital to many tasks in Web information retrieval such as maintaining Web
 directories and focused crawling. The uncontrolled nature of Web content presents additional challenges to Web page
 classification as compared to traditional text classification, however the interconnected nature of hypertext
