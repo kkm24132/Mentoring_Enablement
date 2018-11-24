@@ -1,9 +1,8 @@
 ## Tutorials_For_Mentoring
 
-One understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
+One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
 ### Industry Use Case scenarios across Machine Learning
-The Use case scenarios across industry for Machine Learning is as follows:
 
 Banking and Financial Services:
 ```
@@ -24,7 +23,6 @@ Retail:
 * Market basket analysis with association rules
 * Customer ROI and Life time value analysis
 ```
-
 Healthcare and Life sciences:
 ```
 * Personalization of patient care
@@ -33,6 +31,14 @@ Healthcare and Life sciences:
 * Alerts and diagnostics from real time patient data
 * Disease identification and risk stratification
 * Healthcare provider sentiment analysis
+```
+Travel and Hospitality
+```
+* Price optimization, Dynamic pricing
+* Aircraft scheduling
+* Social media consumer feedback and interaction analysis
+* Customer complaint resolution
+* Traffic patterns and congestion management, route optimization
 ```
 
 ### Part 1: R Programming with univariate and bivariate analysis
