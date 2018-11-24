@@ -3,6 +3,7 @@
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
 ![plot of chunk crisp-dm](/figures/crisp-dm.png)
+
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program.
 ```
 * Business Understanding
