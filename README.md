@@ -105,3 +105,8 @@ Some applications of Computer Vision are as follows:
 * Recognize actions
 * Track objects in action
 ```
+
+### Apache Superset - for Data exploration and visualization
+
+Reference: https://github.com/apache/incubator-superset
+Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
