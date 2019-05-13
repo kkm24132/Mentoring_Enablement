@@ -207,15 +207,7 @@ waffle(expenses/1235, rows=5, size=0.3,
 # It is important to practise it and leverage some of the libraries / packages already in R
 # This will help while performing Data Analysis / Data Wrangling / Exploratory Data Analysis etc.
 
-
-
-
-
-
-
-
-
-
+# Please refer to http://rstudio-pubs-static.s3.amazonaws.com/5795_e6e6411731bb4f1b9cc7eb49499c2082.html for Radar plots
 
 
 
