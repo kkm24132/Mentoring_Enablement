@@ -118,3 +118,10 @@ https://github.com/datasciencemasters/go
 
 Conversational AI with Transfer Learning :
 https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md
+
+
+### Other References for reading
+
+Applied Machine Learning videos reference:
+https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
+
