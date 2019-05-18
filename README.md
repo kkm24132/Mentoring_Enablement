@@ -116,3 +116,5 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 The Open Source Data Science Masters : 
 https://github.com/datasciencemasters/go
 
+Conversational AI with Transfer Learning :
+https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md
