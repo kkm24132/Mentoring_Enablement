@@ -7,7 +7,7 @@ Sl.No|Description|
 -----|-----------|
 1 | Split CSV files into smaller files |
 2 | Usage of ff package |
-3 | Usage of bogmemory package |
+3 | Usage of bigmemory package |
 4 | Usage of snow package to process tasks in parallel |
 5 | Mapreduce and Hadoop |
 6 | doMC, parallel - provided you have multi-core processor machine |
