@@ -16,7 +16,8 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 
 # Industry Use Case Scenarios - Machine Learning
 
-BFSI:
+## BFSI:
+
 Category                       | Use Case Description          |
 -------------------------------|-------------------------------|
 Banking and Financial Services |Customer Segmentation, Customer Micro-Segmentation|
@@ -27,7 +28,8 @@ Banking and Financial Services |Customer Life Time Value Analysis|
 Banking and Financial Services |Sales and Marketing Campaign Management|
 Banking and Financial Services |Evaluation of Credit Worthiness|
 
-Retail and CPG:
+## Retail and CPG:
+
 Category               | Use Case Description          |
 -----------------------|-------------------------------|
 Retail                 |Predictive Inventory Planning, Predictive Maintenance|
