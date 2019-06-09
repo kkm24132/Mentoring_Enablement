@@ -53,14 +53,17 @@ Healthcare and Life sciences|Disease Identification and Risk Stratification|
 Healthcare and Life sciences|Healthcare Provider Sentiment Analysis|
 
 
-Travel and Hospitality:
-```
-* Price optimization, Dynamic pricing
-* Aircraft scheduling
-* Social media consumer feedback and interaction analysis
-* Customer complaint resolution
-* Traffic patterns and congestion management, route optimization
-```
+## Travel and Hospitality:
+
+Category                    | Use Case Description          |
+----------------------------|-------------------------------|
+Travel and Hospitality      |Price Optimization, Dynamic Pricing|
+Travel and Hospitality      |Aircraft Scheduling|
+Travel and Hospitality      |Social Media Consumer Feedback and Interaction Analysis|
+Travel and Hospitality      |Customer Complaint Resolution|
+Travel and Hospitality      |Traffic Patterns and Congestion Management, Route Optimization|
+
+
 Manufacturing:
 ```
 * Predictive maintenance
