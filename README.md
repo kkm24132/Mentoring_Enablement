@@ -15,7 +15,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 6) Deployment
 ```
 
-# Industry Use Case Scenarios - Machine Learning
+# Use Case Scenarios - Machine Learning
 
 ## BFSI:
 
@@ -64,14 +64,16 @@ Travel and Hospitality      |Customer Complaint Resolution|
 Travel and Hospitality      |Traffic Patterns and Congestion Management, Route Optimization|
 
 
-Manufacturing:
-```
-* Predictive maintenance
-* Demand forecasting
-* Process optimization
-* Telematics
-* Warranty analytics (Warranty reserve estimation)
-```
+## Manufacturing:
+
+Category                    | Use Case Description          |
+----------------------------|-------------------------------|
+Manufacturing               |Predictive Maintenance|
+Manufacturing               |Demand Forecasting|
+Manufacturing               |Process Optimization|
+Manufacturing               |Telematics|
+Manufacturing               |Warranty Analytics (Warranty reserve estimation)|
+
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
