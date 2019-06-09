@@ -1,4 +1,4 @@
-## Tutorials For Mentoring
+# Tutorials For Mentoring
 
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
@@ -14,7 +14,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 * Deployment
 ```
 
-### Industry Use Case scenarios across Machine Learning
+## Industry Use Case scenarios across Machine Learning
 
 Banking and Financial Services:
 ```
@@ -64,13 +64,13 @@ Manufacturing:
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
 
-### Part 1: R Programming with univariate and bivariate analysis
+## Part 1: R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
 
-### Part 2: Time series Forecasting in R
+## Part 2: Time series Forecasting in R
 These are program components which are used for mentoring purposes
 
-### Predict Web Page Tags based on its content
+## Predict Web Page Tags based on its content
 Classification of Web page content is vital to many tasks in Web information retrieval such as maintaining Web
 directories and focused crawling. The uncontrolled nature of Web content presents additional challenges to Web page
 classification as compared to traditional text classification, however the interconnected nature of hypertext
@@ -91,7 +91,7 @@ Basically given the complete html and url, predict the tag a web page belongs to
 * Guidelines
 * Others
 
-### Computer Vision
+# Computer Vision
 Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
 Some applications of Computer Vision are as follows:
 ```
@@ -106,21 +106,22 @@ Some applications of Computer Vision are as follows:
 * Track objects in action
 ```
 
-### Apache Superset - for Data exploration and visualization
+## Apache Superset - for Data exploration and visualization
 
 Reference: https://github.com/apache/incubator-superset
 Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
 
-### Reference GitHub links
-The Open Source Data Science Masters : 
-https://github.com/datasciencemasters/go
+# Reference GitHub links
 
-Conversational AI with Transfer Learning :
-https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md
+Category / Area                         | URL / Links|
+----------------------------------------|------------|
+Awesome Deep Learning Reference         | https://github.com/ChristosChristofidis/awesome-deep-learning|
+The Open Source Data Science Masters.   | https://github.com/datasciencemasters/go |
+Conversational AI with Transfer Learning| https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md|
 
 
-### Other References for reading
+# Other References for reading
 
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
