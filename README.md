@@ -5,13 +5,14 @@ One must understand key aspects on CRISP-DM methodlogy, applications / use cases
 ![plot of chunk crisp-dm](/figures/crisp-dm.png)
 
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program.
+
 ```
-* Business Understanding
-* Data Understanding
-* Data Preparation
-* Model Development
-* Model Evaluation
-* Deployment
+1) Business Understanding
+2) Data Understanding
+3) Data Preparation
+4) Model Development
+5) Model Evaluation
+6) Deployment
 ```
 
 # Industry Use Case Scenarios - Machine Learning
@@ -40,15 +41,18 @@ Retail                 |Market Basket Analysis with Association Rules|
 Retail                 |Customer ROI and Life time value analysis|
 
 
-Healthcare and Life sciences:
-```
-* Personalization of patient care
-* Proactive health management
-* Patient triangle optimization
-* Alerts and diagnostics from real time patient data
-* Disease identification and risk stratification
-* Healthcare provider sentiment analysis
-```
+## Healthcare and Life Sciences:
+
+Category                    | Use Case Description          |
+----------------------------|-------------------------------|
+Healthcare and Life sciences|Personalization of Patient Care|
+Healthcare and Life sciences|Proactive Health Management|
+Healthcare and Life sciences|Patient Triangle Optimization|
+Healthcare and Life sciences|Alerts and Diagnostics from Real Time Patient Data|
+Healthcare and Life sciences|Disease Identification and Risk Stratification|
+Healthcare and Life sciences|Healthcare Provider Sentiment Analysis|
+
+
 Travel and Hospitality:
 ```
 * Price optimization, Dynamic pricing
