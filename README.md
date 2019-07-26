@@ -17,7 +17,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 - Deployment
 
 
-## Use Case Scenarios - Machine Learning
+## Use Cases by Industry
 
 ### BFSI:
 
@@ -81,8 +81,13 @@ The advantages of ML are useful where large dataset is available. Large scale de
 
 ## Data Visualization
 Below are some of URLs that can be referred for learning (but not exhaustive list by any means)
+
+- [DV guidelines by Edward Tufte](https://www.edwardtufte.com/tufte/)
 - [Storytelling with Data](http://www.storytellingwithdata.com/)
 - [Information is Beautiful](https://informationisbeautiful.net/)
+- [Junk Charts](https://junkcharts.typepad.com/)
+
+## Other Enablement sessions
 
 ### Part 1: R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
