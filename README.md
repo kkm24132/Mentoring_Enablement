@@ -1,23 +1,25 @@
 # Tutorials For Mentoring
 
+## Methodology / Framework
+
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
 ![plot of chunk crisp-dm](/figures/crisp-dm.png)
 
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program.
 
-```
-1) Business Understanding
-2) Data Understanding
-3) Data Preparation
-4) Model Development
-5) Model Evaluation
-6) Deployment
-```
 
-# Use Case Scenarios - Machine Learning
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Model Development
+- Model Evaluation
+- Deployment
 
-## BFSI:
+
+## Use Case Scenarios - Machine Learning
+
+### BFSI:
 
 Category                       | Use Case Description          |
 -------------------------------|-------------------------------|
@@ -29,7 +31,7 @@ Banking and Financial Services |Customer Life Time Value Analysis|
 Banking and Financial Services |Sales and Marketing Campaign Management|
 Banking and Financial Services |Evaluation of Credit Worthiness|
 
-## Retail and CPG:
+### Retail and CPG:
 
 Category               | Use Case Description          |
 -----------------------|-------------------------------|
@@ -41,7 +43,7 @@ Retail                 |Market Basket Analysis with Association Rules|
 Retail                 |Customer ROI and Life time value analysis|
 
 
-## Healthcare and Life Sciences:
+### Healthcare and Life Sciences:
 
 Category                    | Use Case Description          |
 ----------------------------|-------------------------------|
@@ -53,7 +55,7 @@ Healthcare and Life sciences|Disease Identification and Risk Stratification|
 Healthcare and Life sciences|Healthcare Provider Sentiment Analysis|
 
 
-## Travel and Hospitality:
+### Travel and Hospitality:
 
 Category                    | Use Case Description          |
 ----------------------------|-------------------------------|
@@ -64,7 +66,7 @@ Travel and Hospitality      |Customer Complaint Resolution|
 Travel and Hospitality      |Traffic Patterns and Congestion Management, Route Optimization|
 
 
-## Manufacturing:
+### Manufacturing:
 
 Category                    | Use Case Description          |
 ----------------------------|-------------------------------|
@@ -78,13 +80,13 @@ Manufacturing               |Warranty Analytics (Warranty reserve estimation)|
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
 
-## Part 1: R Programming with univariate and bivariate analysis
+### Part 1: R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
 
-## Part 2: Time series Forecasting in R
+### Part 2: Time series Forecasting in R
 These are program components which are used for mentoring purposes
 
-## Predict Web Page Tags based on its content
+### Predict Web Page Tags based on its content
 Classification of Web page content is vital to many tasks in Web information retrieval such as maintaining Web
 directories and focused crawling. The uncontrolled nature of Web content presents additional challenges to Web page
 classification as compared to traditional text classification, however the interconnected nature of hypertext
@@ -105,28 +107,27 @@ Basically given the complete html and url, predict the tag a web page belongs to
 * Guidelines
 * Others
 
-# Computer Vision
+## Computer Vision
 Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
 Some applications of Computer Vision are as follows:
-```
-* Controlling processes
-* Navigation
-* Organizing set of information
-* Automatic inspection
-* Modeling objects or environments
-* Detecting events
-* Recognize objects
-* Recognize actions
-* Track objects in action
-```
 
-## Apache Superset - for Data exploration and visualization
+- Controlling processes
+- Navigation
+- Organizing set of information
+- Automatic inspection
+- Modeling objects or environments
+- Detecting events
+- Recognize objects
+- Recognize actions
+- Track objects in action
+
+### Apache Superset - for Data exploration and visualization
 
 Reference: https://github.com/apache/incubator-superset
 Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
 
-# Reference GitHub links
+## Reference GitHub links
 
 Category / Area                         | URL / Links|
 ----------------------------------------|------------|
@@ -135,7 +136,7 @@ The Open Source Data Science Masters.   | https://github.com/datasciencemasters/
 Conversational AI with Transfer Learning| https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md|
 
 
-# Other References for reading
+## Other References for reading
 
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
