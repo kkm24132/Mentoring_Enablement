@@ -1,6 +1,6 @@
 # Mentoring Enablement
 
-## Methodology / Framework
+## 1. Methodology / Framework
 
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
@@ -16,7 +16,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 - Deployment
 
 
-## Use Cases by Industry
+## 2. Use Cases by Industry
 
 ### BFSI:
 
@@ -78,7 +78,7 @@ Manufacturing               |Warranty Analytics (Warranty reserve estimation)|
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
-## Data Visualization
+## 3. Data Visualization
 Below are some of URLs that can be referred for learning (but not exhaustive list by any means)
 
 - [DV guidelines by Edward Tufte](https://www.edwardtufte.com/tufte/)
@@ -90,7 +90,12 @@ Below are some of URLs that can be referred for learning (but not exhaustive lis
 - [Flowing Data](https://flowingdata.com/)
 - [Visualising Data](https://www.visualisingdata.com/)
 
-## Learning Reference for Probability and Stats
+### Apache Superset - for Data exploration and visualization
+
+Reference: https://github.com/apache/incubator-superset
+Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+
+## 4. Learning Reference for Probability and Stats
 
 - Towardsdatascience
 - Elitedatascience
@@ -103,7 +108,7 @@ Below are some of URLs that can be referred for learning (but not exhaustive lis
 - Alison
 - Guru99
 
-## Sites / References to learn Python 
+## 5. Sites / References to learn Python 
 
 - [Python for Beginners - 1](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners - 2](https://www.pythonforbeginners.com/basics/)
@@ -119,6 +124,33 @@ Below are some of URLs that can be referred for learning (but not exhaustive lis
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [CheckiO](https://checkio.org/)
 
+## 6. Datasets For Exploration and Usage
+
+- [Google Datasets](https://ai.google/tools/datasets/)
+- [Data.world](https://data.world/)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [US Govertnment Open Datasets for usage](https://www.data.gov/)
+- [FiveThirtyEight](https://fivethirtyeight.com/)
+- [BuzzFeed](https://www.buzzfeed.com/)
+- [Socrata OpenData](https://dev.socrata.com/data/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+- [Reddit or R/datasets](https://www.reddit.com/r/datasets/comments/9oai7u/list_of_public_datasets/)
+- [Quandl](https://www.quandl.com/)
+- [Academic Torrents](http://academictorrents.com/)
+
+## 7. Computer Vision
+Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
+Some applications of Computer Vision are as follows:
+
+- Controlling processes
+- Navigation
+- Organizing set of information
+- Automatic inspection
+- Modeling objects or environments
+- Detecting events
+- Recognize objects
+- Recognize actions
+- Track objects in action
 
 ## Other Enablement Areas
 
@@ -149,39 +181,6 @@ Basically given the complete html and url, predict the tag a web page belongs to
 * Guidelines
 * Others
 
-## Computer Vision
-Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
-Some applications of Computer Vision are as follows:
-
-- Controlling processes
-- Navigation
-- Organizing set of information
-- Automatic inspection
-- Modeling objects or environments
-- Detecting events
-- Recognize objects
-- Recognize actions
-- Track objects in action
-
-## Datasets For Exploration and Usage
-
-- [Google Datasets](https://ai.google/tools/datasets/)
-- [Data.world](https://data.world/)
-- [Kaggle datasets](https://www.kaggle.com/datasets)
-- [US Govertnment Open Datasets for usage](https://www.data.gov/)
-- [FiveThirtyEight](https://fivethirtyeight.com/)
-- [BuzzFeed](https://www.buzzfeed.com/)
-- [Socrata OpenData](https://dev.socrata.com/data/)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
-- [Reddit or R/datasets](https://www.reddit.com/r/datasets/comments/9oai7u/list_of_public_datasets/)
-- [Quandl](https://www.quandl.com/)
-- [Academic Torrents](http://academictorrents.com/)
-
-
-### Apache Superset - for Data exploration and visualization
-
-Reference: https://github.com/apache/incubator-superset
-Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
 
 ## Reference GitHub links
