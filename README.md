@@ -1,4 +1,4 @@
-# Tutorials For Mentoring
+# Mentoring Enablement
 
 ## Methodology / Framework
 
@@ -79,6 +79,10 @@ Manufacturing               |Warranty Analytics (Warranty reserve estimation)|
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
+## Data Visualization
+Below are some of URLs that can be referred for learning (but not exhaustive list by any means)
+- [Storytelling with Data](http://www.storytellingwithdata.com/)
+- [Information is Beautiful](https://informationisbeautiful.net/)
 
 ### Part 1: R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
