@@ -133,6 +133,21 @@ Some applications of Computer Vision are as follows:
 - Recognize actions
 - Track objects in action
 
+## Datasets For Exploration and Usage
+
+- [Google Datasets](https://ai.google/tools/datasets/)
+- [Data.world](https://data.world/)
+- [Kaggle datasets](https://www.kaggle.com/datasets)
+- [US Govertnment Open Datasets for usage](https://www.data.gov/)
+- [FiveThirtyEight]9https://fivethirtyeight.com/)
+- [BuzzFeed]
+- [Socrata OpenData]
+- [UCI Repository]
+- [Reddit or R/datasets]
+- [Quandl]
+- [Academic Torrents]
+
+
 ### Apache Superset - for Data exploration and visualization
 
 Reference: https://github.com/apache/incubator-superset
@@ -153,3 +168,4 @@ Conversational AI with Transfer Learning| https://github.com/huggingface/transfe
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
+- ** Disclaimer: Above information is based on my own experiences, learnings, readings and no way represent any firm's opinion or any individual's opinion or not intended for anything else other than self learning  **
