@@ -139,13 +139,13 @@ Some applications of Computer Vision are as follows:
 - [Data.world](https://data.world/)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [US Govertnment Open Datasets for usage](https://www.data.gov/)
-- [FiveThirtyEight]9https://fivethirtyeight.com/)
-- [BuzzFeed]
-- [Socrata OpenData]
-- [UCI Repository]
-- [Reddit or R/datasets]
-- [Quandl]
-- [Academic Torrents]
+- [FiveThirtyEight](https://fivethirtyeight.com/)
+- [BuzzFeed](https://www.buzzfeed.com/)
+- [Socrata OpenData](https://dev.socrata.com/data/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+- [Reddit or R/datasets](https://www.reddit.com/r/datasets/comments/9oai7u/list_of_public_datasets/)
+- [Quandl](https://www.quandl.com/)
+- [Academic Torrents](http://academictorrents.com/)
 
 
 ### Apache Superset - for Data exploration and visualization
@@ -168,4 +168,4 @@ Conversational AI with Transfer Learning| https://github.com/huggingface/transfe
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
-- ** Disclaimer: Above information is based on my own experiences, learnings, readings and no way represent any firm's opinion or any individual's opinion or not intended for anything else other than self learning  **
+- Disclaimer: Above information is based on my own experiences, learnings, readings and no way represent any firm's opinion or any individual's opinion or not intended for anything else other than self learning  **
