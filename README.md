@@ -90,6 +90,36 @@ Below are some of URLs that can be referred for learning (but not exhaustive lis
 - [Flowing Data](https://flowingdata.com/)
 - [Visualising Data](https://www.visualisingdata.com/)
 
+## Learning Reference for Probability and Stats
+
+- Towardsdatascience
+- Elitedatascience
+- Khan Academy
+- OpenIntro
+- Exam Solutions
+- Seeing Theory
+- OLI
+- Class Central
+- Alison
+- Guru99
+
+## Sites / References to learn Python 
+
+- [Python for Beginners - 1](https://www.python.org/about/gettingstarted/)
+- [Python for Beginners - 2](https://www.pythonforbeginners.com/basics/)
+- [Learn Python programming in 7 days, Guru99](https://www.guru99.com/python-tutorials.html)
+- [Pythonspot](https://pythonspot.com/)
+- [Code Academy](https://www.codecademy.com/catalog/language/python)
+- [TutorialsPoint](https://www.tutorialspoint.com/)
+- [The Python org](https://www.python.org/)
+- [Interactive Python](https://www.interactivepython.org/)
+- [Python Tutor](http://pythontutor.com/)
+- [Awesome Python](https://pythonawesome.com/)
+- [Awesome Python Github Reference](https://github.com/vinta/awesome-python)
+- [Full Stack Python](https://www.fullstackpython.com/)
+- [CheckiO](https://checkio.org/)
+
+
 ## Other Enablement Areas
 
 ### Part 1: R Programming with univariate and bivariate analysis
