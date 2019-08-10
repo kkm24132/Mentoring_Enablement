@@ -182,7 +182,6 @@ Basically given the complete html and url, predict the tag a web page belongs to
 * Others
 
 
-
 ## Reference GitHub links
 
 Category / Area                         | URL / Links|
@@ -197,4 +196,4 @@ Conversational AI with Transfer Learning| https://github.com/huggingface/transfe
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
-- Disclaimer: Above information is based on my own experiences, learnings, readings and no way represent any firm's opinion or any individual's opinion or not intended for anything else other than self learning  **
+``` Disclaimer: Above information is based on my own experiences, learnings, readings and no way represent any firm's opinion or any individual's opinion or not intended for anything else other than self learning. ```
