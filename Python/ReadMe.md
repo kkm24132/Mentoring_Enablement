@@ -1,6 +1,7 @@
 # Python Specific Focus Areas
 
 ## Cheat Sheets
+- Beginner's guide and cheatsheets - https://ehmatthes.github.io/pcc/cheatsheets/README.html
 - PyTorch cheatsheets - https://pytorch.org/tutorials/beginner/ptcheat.html
 
 
