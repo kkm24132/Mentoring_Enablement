@@ -1,7 +1,8 @@
 # Python Specific Focus Areas
 
 ## Cheat Sheets
-- Python basics for Data Science - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
+- Python basics using Numpy - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
+- Python basics using Pandas - http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
 - Beginner's guide and cheatsheets - https://ehmatthes.github.io/pcc/cheatsheets/README.html
 - PyTorch cheatsheets - https://pytorch.org/tutorials/beginner/ptcheat.html
 
