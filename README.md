@@ -36,12 +36,12 @@ One must understand key aspects on CRISP-DM methodlogy, applications / use cases
 
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program.
 
-- Business Understanding
-- Data Understanding
-- Data Preparation
-- Model Development
-- Model Evaluation
-- Deployment
+- _Business Understanding_
+- _Data Understanding_
+- _Data Preparation_
+- _Model Development_
+- _Model Evaluation_
+- _Deployment_
 
 * Understanding where to spend 80% of effort in an end to end DS journey and where to spend 20% - 80-20 aspect that I call
 
