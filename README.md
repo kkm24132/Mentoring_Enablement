@@ -254,6 +254,7 @@ Category / Area                         | URL / Links|
 Awesome Deep Learning Reference         | https://github.com/ChristosChristofidis/awesome-deep-learning|
 The Open Source Data Science Masters.   | https://github.com/datasciencemasters/go |
 Conversational AI with Transfer Learning| https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md|
+The incomplete deep learning guide      | https://github.com/sannykim/deep-learning-guide|
 
 
 ## Other References for Reading
