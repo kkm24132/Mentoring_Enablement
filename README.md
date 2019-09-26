@@ -1,12 +1,32 @@
-# Mentoring Enablement
+# Data Science and AI Mentoring - my 8 steps
 
-## [1] Data Science Method / Approach to Success
+Objective: is to provide some thoughts, pointers around Data Science and AI for my mentees to get a direction. I get an opportunity to learn from them, my team and everyone that I interact and collaborate across around this theme.
+
+My suggestion:
+Data Science is a journey and there are no short cuts around it like everything else where we want get into success. Let me also be very clear and request some of these key points to my mentees and whoever is reading this content. The content we need depends on the objectives that we would intend to pursue in life. The foundations and interpretations may vary depending on what we want to accomplish in a specific span - a Data Science Practitioner, Applied Data Scientist, Research Scientist and so on. Every role would expect us to get into different flavours of understanding and focus.
+
+I would like to create an outline as an initial draft approach.
+
+## (Step: -2): Pre-Requisites: Mindset 
+
+* Mindset of Mathematics + Computer Science + Statistics + Programming + Story telling
+* Mindset of Data Science Method/Approach to Success
 
 Focus on a business problem and trying to understand business KPIs, drivers that are required as part of goal formulation and define strategy accordingly alligning to CRISP-DM methodology from an end to end Data Science perspective. Below diagram depicts a high level outline of the approach.
 
 ![plot of business problem solving using CRISP-DM](/figures/ProblemSolving_With_CRISPDM.png)
 
-### CRISP-DM Methodology / Framework in detail
+* [How to think like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+
+## (Step: -1) Fundamentals of Statistics, Linear Algebra, Programming
+
+* [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
+* [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
+* [MIT Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
+
+## (Step:  0) DS/AI Ecosystem, Methodologies
+
+* [Fundamentals of CRISP-DM Methodologies](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
 
@@ -21,8 +41,48 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 - Model Evaluation
 - Deployment
 
+* Understanding where to spend 80% of effort in an end to end DS journey and where to spend 20% - 80-20 aspect that I call
 
-## [2] Use Cases by Industry
+
+## (Step:  1) Machine Learning Fundamentals
+All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
+
+* [Andrew Ng's course around ML](https://www.coursera.org/learn/machine-learning)
+* [CognitiveClass.ai course - Data Science Foundations](https://cognitiveclass.ai/learn/data-science)
+* [CognitiveClass.ai course - Applied DS with Python](https://cognitiveclass.ai/learn/data-science-with-python)
+* [CognitiveClass.ai course - Applied DS with R](https://cognitiveclass.ai/learn/data-science-r)
+* [Caltech CS156 ML course](http://work.caltech.edu/telecourse.html) 
+* [Christopher Bishop's Pattern Recognition and ML Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
+## (Step:  2) Deep Learning Fundamentals
+deeplearning.ai from Andrew Ng
+fast.ai from Jeremy Howard and R. Thomas
+
+* Watch DeepLearning.ai course lectures I, II, IV and V
+* Go through fast.ai Part 1
+* Watch DeepLearning.ai course lecture III
+* Go through DeepLearning.ai assignments
+* Repeat steps above
+
+## (Step:  3) Delve into some depth around ML and DL
+
+* Go through use cases and solve a use case 
+* Use Kaggle
+* Understand a framework and try to use it - PyTorch, Keras, Tensorflow
+* [Write effective technical blogs](https://www.youtube.com/watch?v=YODPgBadj80)
+
+## (Step:  4) Deep dive into ML and DL
+
+## (Step: Infinity) Continuous Learning, Stay Current
+This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
+
+
+
+
+
+
+
+## Use Cases by Industry
 
 ### BFSI:
 
