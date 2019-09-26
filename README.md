@@ -1,5 +1,5 @@
 # Data Science and AI Mentoring - my 8 steps
-
+[Step -2,-1,0,1,2,3,4 and Infinity]
 Objective: is to provide some thoughts, pointers around Data Science and AI for my mentees to get a direction. I get an opportunity to learn from them, my team and everyone that I interact and collaborate across around this theme.
 
 My suggestion:
@@ -79,10 +79,7 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 
 
 
-
-
-
-## Use Cases by Industry
+## Typical Use Cases by Industry (Illustrative)
 
 ### BFSI:
 
@@ -144,7 +141,7 @@ Manufacturing               |Warranty Analytics (Warranty reserve estimation)|
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
-## [3] Data Visualization
+## Data Visualization
 Below are some of URLs that can be referred for learning (but not exhaustive list by any means)
 
 - [DV guidelines by Edward Tufte](https://www.edwardtufte.com/tufte/)
@@ -161,7 +158,7 @@ Below are some of URLs that can be referred for learning (but not exhaustive lis
 Reference: https://github.com/apache/incubator-superset
 Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
-## [4] Learning Reference for Probability and Stats
+## Learning Reference for Probability and Stats
 
 - Towardsdatascience
 - Elitedatascience
@@ -174,7 +171,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - Alison
 - Guru99
 
-## [5] Sites / References to learn Python 
+## Sites / References to learn Python 
 
 - [Python for Beginners - 1](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners - 2](https://www.pythonforbeginners.com/basics/)
@@ -190,7 +187,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [CheckiO](https://checkio.org/)
 
-## [6] Datasets For Exploration and Usage
+## Datasets For Exploration and Usage
 
 - [Google Datasets](https://ai.google/tools/datasets/)
 - [Data.world](https://data.world/)
@@ -204,7 +201,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - [Quandl](https://www.quandl.com/)
 - [Academic Torrents](http://academictorrents.com/)
 
-## [7] Computer Vision
+## Computer Vision
 Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
 Some applications of Computer Vision are as follows:
 
@@ -257,7 +254,7 @@ The Open Source Data Science Masters.   | https://github.com/datasciencemasters/
 Conversational AI with Transfer Learning| https://github.com/huggingface/transfer-learning-conv-ai/blob/master/README.md|
 
 
-## Other References for reading
+## Other References for Reading
 
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
