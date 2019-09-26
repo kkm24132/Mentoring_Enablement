@@ -1,5 +1,5 @@
 # Data Science and AI Mentoring - my 8 steps
-* _(Step -2,-1,0,1,2,3,4 and Infinity)_
+_(Step -2, -1, 0, 1, 2, 3, 4 and Infinity)_
 
 ### Objective: 
 is to provide some thoughts, pointers around Data Science and AI for my mentees to get a direction. I get an opportunity to learn from them, my team and everyone that I interact and collaborate across around this theme.
