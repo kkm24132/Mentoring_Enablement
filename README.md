@@ -78,7 +78,28 @@ fast.ai from Jeremy Howard and R. Thomas
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 
+## Quick Checklist for various levels
 
+### Beginner Level - Data and AI
+
+- [ ] Academia background of Mathematics and Statistics
+- [ ] Exposure to Programming skills
+- [ ] Understanding of Story telling
+- [ ] Understanding of Methodology to drive business problems to data problems
+- [ ] Understanding of Business KPIs and Drivers
+- [ ] Exposure to environment, tools and technologies at a high level
+- [ ] Exposure toPython or R
+- [ ] Data Visualization and EDA
+
+### Intermediate Level - Data and AI
+
+- [ ] Understanding of all that is required at a "Beginner Level"
+- [ ] Ability to formulate different techniques for a problem
+- [ ] Familiarity with Python and R with a grip on one of those strongly
+- [ ] Strong applied skills in EDA
+- [ ] Strong story telling and Data visualization
+- [ ] Machine Learning
+- [ ] Deep Learning
 
 
 ## Typical Use Cases by Industry (Illustrative)
