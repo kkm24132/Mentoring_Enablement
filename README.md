@@ -78,7 +78,7 @@ fast.ai from Jeremy Howard and R. Thomas
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 
-## Quick Checklist for various levels
+# Quick Checklist for various levels
 
 ### _Beginner Level - Data and AI_
 
