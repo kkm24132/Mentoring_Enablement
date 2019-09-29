@@ -1,4 +1,4 @@
-# Data Science and AI Mentoring - my 8 steps
+# Data Science and AI Mentoring - my 7 steps
 _(Step -2, -1, 0, 1, 2, 3, 4 and Infinity)_
 
 ### Objective: 
