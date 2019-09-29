@@ -80,7 +80,7 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 
 ## Quick Checklist for various levels
 
-### Beginner Level - Data and AI
+### _Beginner Level - Data and AI_
 
 - [ ] Academia background of Mathematics and Statistics
 - [ ] Exposure to Programming skills
@@ -91,7 +91,7 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 - [ ] Exposure toPython or R
 - [ ] Data Visualization and EDA
 
-### Intermediate Level - Data and AI
+### _Intermediate Level - Data and AI_
 
 - [ ] Understanding of all that is required at a "Beginner Level"
 - [ ] Ability to formulate different techniques for a problem
