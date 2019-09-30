@@ -1,10 +1,10 @@
 # Data Science and AI Mentoring - my 8 steps
 _(Step -2, -1, 0, 1, 2, 3, 4 and Infinity)_
 
-### Objective: 
+### Objective
 is to provide some thoughts, pointers around Data Science and AI for my mentees to get a direction. I get an opportunity to learn from them, my team and everyone that I interact and collaborate across around this theme.
 
-### My suggestion:
+### My Suggestion
 Data Science is a journey and there are no short cuts around it like everything else where we want get into success. Let me also be very clear and request some of these key points to my mentees and whoever is reading this content. The content we need depends on the objectives that we would intend to pursue in life. The foundations and interpretations may vary depending on what we want to accomplish in a specific span - a Data Science Practitioner, Applied Data Scientist, Research Scientist and so on. Every role would expect us to get into different flavours of understanding and focus.
 
 I would like to create an outline as an initial draft approach.
