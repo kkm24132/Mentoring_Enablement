@@ -85,6 +85,11 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 
 - [ ] Academia background of Mathematics and Statistics
 - [ ] Exposure to Programming skills
+  - [ ] Concepts of fundamentals in programming languages such as Python and R
+  - [ ] Style aspect for Python and R - mentioned above as a suggestion
+  - [ ] Readability - Has comments, indentation as per style guide
+  - [ ] Modular - code is broken into small parts, functions, sub-routines as needed
+  - [ ] Flow of control - code should perform what it is meant for
 - [ ] Understanding of Story telling
 - [ ] Understanding of Methodology to drive business problems to data problems
 - [ ] Understanding of Business KPIs and Drivers
