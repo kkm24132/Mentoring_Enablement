@@ -46,6 +46,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 * Understanding where to spend 80% of effort in an end to end DS journey and where to spend 20% - 80-20 aspect that I call
 * [Style guide for Python](https://www.python.org/dev/peps/pep-0008/)
 * [Style guide for R](https://style.tidyverse.org/)
+* [Reference for effective and professional data science coding](https://www.kaggle.com/rtatman/six-steps-to-more-professional-data-science-code)
 
 ## (Step:  1) Machine Learning Fundamentals
 All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
