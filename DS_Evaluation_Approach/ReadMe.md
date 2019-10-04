@@ -63,3 +63,10 @@ As an interviewer, one should very carefully follow below criteria and points in
   - Blogs
   - Disclosures
   - Papers/Publications
+  - Mentoring
+  - Other Givebacks
+
+- **4. Other aspects**
+- [ ] Comfort level
+- [ ] Calm and composed attitude in handling a problem
+- [ ] Leadership style
