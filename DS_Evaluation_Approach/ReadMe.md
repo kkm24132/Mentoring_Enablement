@@ -3,11 +3,11 @@ I wish to follow some of below points and look for those attributes in candidate
 
 As an interviewer, one should very carefully follow below criteria and points in a Data Scientist role
 
-- **1. Core background**
+- **(1) Core background**
 - [ ] Profile Background - better to have Bachelors in Comp Sc, Masters in Comp Sc/Stats/Maths/Analytics or equivalent, PhD is great in similar space, but PhD is not mandatory.
-- [ ] Learning proof + Experiential proof
+- [ ] Learning proof + Experiential/Project proof
 
-- **2. Base Skills**
+- **(2) Base/Foundational Skills**
 - [ ] Math and Stats knowledge
 - [ ] Story telling ability, Data Journalist skills
 - [ ] Communication, articulation ability
@@ -16,10 +16,11 @@ As an interviewer, one should very carefully follow below criteria and points in
 - [ ] Core Machine Learning, Deep Learning skills depending on experience level
 - [ ] Design thinking thoughts
 
-- **3. Practical Skills**
-- [ ] Methodology 
+- **(3) Practical Skills**
+- [ ] Methodology and Frameworks
   - CRISP-DM
   - End to end Data Science approach
+  - Exposure to frameworks
 - [ ] Business understanding
   - Goals / Objectives
   - Business KPIs, Drivers
@@ -34,12 +35,14 @@ As an interviewer, one should very carefully follow below criteria and points in
   - Feature selection
   - Cross validation
   - Grid search
-- [ ] Programming Knowledge in Open sources such as Python and R
+- [ ] Programming Knowledge in Open sources such as Python and R, Tools/technologies
   - Libraries
   - GitHub examples
   - Challenging scenarios
+  - Exposure to Anaconda environment, Jupyter Notebook, Google Colab, IBM DataPlatform, Azure Notebook, Amazon Sagemaker, Kaggle Kernel etc
 - [ ] Model development
   - Models / Algorithms to select based on Classification, Clustering, Regression, Forecasting, Neural Net etc
+  - Depth in various techniques within a particular area (depending on role/experience/seniority) - e.g. LSTM, ARIMA, HoltWinters, HTM and other techniques in dealing with Time Series Forecasting
 - [ ] Model evaluation
   - ROC, AUC
   - Confusion Matrix
@@ -66,7 +69,7 @@ As an interviewer, one should very carefully follow below criteria and points in
   - Mentoring
   - Other Givebacks
 
-- **4. Other aspects**
+- **(4) Other aspects**
 - [ ] Comfort level
 - [ ] Calm and composed attitude in handling a problem
 - [ ] Leadership style
