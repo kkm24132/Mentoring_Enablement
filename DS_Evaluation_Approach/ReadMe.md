@@ -9,10 +9,12 @@ As an interviewer, one should very carefully follow below criteria and points in
 
 - **2. Base Skills**
 - [ ] Math and Stats knowledge
-- [ ] Story telling ability
+- [ ] Story telling ability, Data Journalist skills
 - [ ] Communication, articulation ability
 - [ ] Thinking of a problem first rather delving into solutions
 - [ ] Ability to think of multiple approaches / methods to a problem
+- [ ] Core Machine Learning, Deep Learning skills depending on experience level
+- [ ] Design thinking thoughts
 
 - **3. Practical Skills**
 - [ ] Methodology 
@@ -48,9 +50,16 @@ As an interviewer, one should very carefully follow below criteria and points in
   - Architecture
   - Microservices
 - [ ] Lessons Learnt
-  - Stakeholder management
-  - 
+  - Stakeholder management experience
+  - Data Quality experience
+  - Feature importance
+  - Explaining what could go better NEXT
 - [ ] Model Interpretability
+  - Understanding model details 
+  - Bias, Variance
+  - Fairness
+  - Ethics, Trust
 - [ ] Forum exposure, Staying current, Though Leadership
   - Blogs
   - Disclosures
+  - Papers/Publications
