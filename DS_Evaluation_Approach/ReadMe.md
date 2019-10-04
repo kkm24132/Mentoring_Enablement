@@ -6,9 +6,10 @@ As an interviewer, one should very carefully follow below criteria and points in
 - **(1) Core background**
 - [ ] Profile Background - better to have Bachelors in Comp Sc, Masters in Comp Sc/Stats/Maths/Analytics or equivalent, PhD is great in similar space, but PhD is not mandatory.
 - [ ] Learning proof + Experiential/Project proof
+- [ ] Relevant experience out of Total experience (i.e. Exp in Data and AI space)
 
 - **(2) Base/Foundational Skills**
-- [ ] Math and Stats knowledge
+- [ ] Math and Stats knowledge, Linear Algebra etc.
 - [ ] Story telling ability, Data Journalist skills
 - [ ] Communication, articulation ability
 - [ ] Thinking of a problem first rather delving into solutions
