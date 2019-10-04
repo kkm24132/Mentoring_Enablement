@@ -70,3 +70,6 @@ As an interviewer, one should very carefully follow below criteria and points in
 - [ ] Comfort level
 - [ ] Calm and composed attitude in handling a problem
 - [ ] Leadership style
+- [ ] Conflict management
+- [ ] Responsiveness
+- [ ] "Be yourself" as a Client Success Entity
