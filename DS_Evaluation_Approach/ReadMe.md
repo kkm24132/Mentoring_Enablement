@@ -1,5 +1,5 @@
 ## Data Science Interview and Evaluation checklist
-I wish to follow some of below points and look for those attributes in candidates for intake into my teams. of course these are not exhaustive and changes as we progress and ever changing needs. 
+I wish to follow some of below points and look for those attributes in candidates for intake into my teams. Of course, these are not exhaustive and they do change as we progress and considering ever changing needs. Another key aspect is the "specific" need. The "Job Description" can never be generic and we should not include "all" or everything under the hood if we are not clear what attributes we are looking for. It may be a good practice to include - "desired background/academia", "number of years of experiential skills or project skills", "whether role focuses on Data Visualization, Data Journalism, Data Engineering, Machine Learning, Deep Learning, ML/DL management and operationalization or so", "what is mandatory or MUST HAVE", "what is NICE to HAVE and optional" and so on..
 
 As an interviewer, one should very carefully follow below criteria and points in a Data Scientist role
 
