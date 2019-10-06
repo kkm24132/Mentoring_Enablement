@@ -22,6 +22,7 @@ As an interviewer, one should very carefully follow below criteria and points in
   - CRISP-DM
   - End to end Data Science approach
   - Exposure to frameworks ([fast.ai](https://course.fast.ai/index.html), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/) etc.)
+  - [TensorFlow 2.0 + Keras Crash course](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
 - [ ] Business understanding
   - Goals / Objectives
   - Business KPIs, Drivers
