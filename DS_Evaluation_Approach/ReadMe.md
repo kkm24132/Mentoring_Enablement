@@ -58,7 +58,7 @@ As an interviewer, one should very carefully follow below criteria and points in
   - Data Quality experience
   - Feature importance
   - Explaining what could go better NEXT
-- [ ] Model Interpretability
+- [ ] Model Interpretability - [Example](https://www.analyticsvidhya.com/blog/2019/08/decoding-black-box-step-by-step-guide-interpretable-machine-learning-models-python/)
   - Understanding model details 
   - Bias, Variance
   - Fairness
