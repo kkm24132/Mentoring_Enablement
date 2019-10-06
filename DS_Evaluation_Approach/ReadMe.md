@@ -3,12 +3,12 @@ I wish to follow some of below points and look for those attributes in candidate
 
 As an interviewer, one should very carefully follow below criteria and points in a Data Scientist role
 
-- **(1) Core background**
+- **[1] Core background**
 - [ ] Profile Background - better to have Bachelors in Comp Sc, Masters in Comp Sc/Stats/Maths/Analytics or equivalent, PhD is great in similar space, but PhD is not mandatory.
 - [ ] Learning proof + Experiential/Project proof + Thought Leadership proof(if any)
 - [ ] Relevant experience out of Total experience (i.e. Exp in Data and AI space)
 
-- **(2) Base/Foundational Skills**
+- **[2] Base/Foundational Skills**
 - [ ] Math and Stats knowledge, Linear Algebra etc.
 - [ ] Story telling ability, Data Journalist skills
 - [ ] Communication, articulation ability
@@ -17,7 +17,7 @@ As an interviewer, one should very carefully follow below criteria and points in
 - [ ] Core Machine Learning, Deep Learning skills depending on experience level
 - [ ] Design thinking thoughts
 
-- **(3) Practical Skills**
+- **[3] Practical Skills**
 - [ ] Methodology and Frameworks
   - CRISP-DM
   - End to end Data Science approach
@@ -70,7 +70,7 @@ As an interviewer, one should very carefully follow below criteria and points in
   - Mentoring
   - Other Givebacks
 
-- **(4) Other aspects**
+- **[4] Other aspects**
 - [ ] Comfort level
 - [ ] Calm and composed attitude in handling a problem
 - [ ] Leadership style
