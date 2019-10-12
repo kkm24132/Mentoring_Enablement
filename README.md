@@ -71,11 +71,14 @@ fast.ai from Jeremy Howard and R. Thomas
 ## (Step:  3) Delve into some depth around ML and DL
 
 * Go through use cases and solve a use case 
-* Use Kaggle
+* Use Kaggle and similar forums
 * Understand a framework and try to use it - PyTorch, Keras, Tensorflow
 * [Write effective technical blogs](https://www.youtube.com/watch?v=YODPgBadj80)
 
 ## (Step:  4) Deep dive into ML and DL
+
+* Applications and Use Cases leveraging CNN, RNN
+* Area wise use cases - Forecasting, Classification etc.
 
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
