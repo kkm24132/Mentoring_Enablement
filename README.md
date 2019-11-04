@@ -293,4 +293,4 @@ The incomplete deep learning guide      | https://github.com/sannykim/deep-learn
 Applied Machine Learning videos reference:
 https://www.youtube.com/playlist?list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA
 
-``` Disclaimer: Above information is based on my own experiences, learnings, readings and no way represent any firm's opinion or any individual's opinion or not intended for anything else other than self learning. ```
+``` Disclaimer: Information represented here is based on my own experiences, learnings, readings and no way represent any firm's opinion, strategy etc or any individual's opinion or not intended for anything else other than self learning. ```
