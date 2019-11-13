@@ -14,3 +14,10 @@
 ## PyTorch Related
 
 - Deep Learning with PyTorch - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+## Module Wise Learning Approach
+
+Module|Content
+---|---
+[Module 1]<br>**Recommended for Week1** | **Module 1: Python Preliminaries**<ul><li>1.1: Course Overview<li>1.2: Introduction to Python<li>1.3: Python Lists, Dictionaries, Sets & JSON<li>1.4: File Handling<li>1.5: Functions, Lambdas, and Map/ReducePython Preliminaries</ul>
+[Module 2]<br>**Recommended for Week3** | **Module 2: Python for Machine Learning**<ul><li>2.1: Introduction to Pandas for Deep Learning<li>2.2: Encoding Categorical Values in Pandas<li>2.3: Grouping, Sorting, and Shuffling<li>2.4: Using Apply and Map in Pandas<li>2.5: Feature Engineering in Padas </ul>
