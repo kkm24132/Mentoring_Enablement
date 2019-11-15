@@ -100,28 +100,10 @@ Level in Data and AI|Guideline or Checklist points
 
 # Business Use Cases by Industry (Illustrative)
 
-### BFSI:
-
-Category                       | Use Case Description          |
--------------------------------|-------------------------------|
-Banking and Financial Services |Customer Segmentation, Customer Micro-Segmentation|
-Banking and Financial Services |Risk Analytics and Regulation, Compliance|
-Banking and Financial Services |Cross Selling and Up-selling|
-Banking and Financial Services |Predictive Maintenance|
-Banking and Financial Services |Customer Life Time Value Analysis|
-Banking and Financial Services |Sales and Marketing Campaign Management|
-Banking and Financial Services |Evaluation of Credit Worthiness|
-
-### Retail and CPG:
-
-Category               | Use Case Description          |
------------------------|-------------------------------|
-Retail                 |Predictive Inventory Planning, Predictive Maintenance|
-Retail                 |Recommendation Engines|
-Retail                 |Upsell and Cross Channel Marketing|
-Retail                 |Market Segmentation and Targeting|
-Retail                 |Market Basket Analysis with Association Rules|
-Retail                 |Customer ROI and Life time value analysis|
+Industry / Domain Area|Use Case Description
+----------------------|--------------------
+[BFSI / FinTech]<br>**Banking and Financial Services** <br>**Insurance** | <ul><li> 1: Customer Segmentation, Customer Micro-Segmentation<li> 2: Risk Analytics and Regulation, Compliance<li> 3: Cross Selling and Up-selling<li> 4: Predictive Maintenance<li> 5: Customer Life Time Value Analysis<li>6: ESales and Marketing Campaign Management<li> 7: Evaluation of Credit Worthiness</ul>
+[Retail and CPG]<br>**Retail** <br>**Consumer Packaged Goods** | <ul><li> 1: Predictive Inventory Planning, Predictive Maintenance<li> 2: Recommendation Engines<li> 3: Upsell and Cross Channel Marketing<li> 4: Market Segmentation and Targeting<li> 5: Market Basket Analysis with Association Rules<li>6: Customer ROI and Life time value analysis</ul>
 
 
 ### Healthcare and Life Sciences:
