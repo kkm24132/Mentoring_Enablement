@@ -83,36 +83,15 @@ fast.ai from Jeremy Howard and R. Thomas
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 
-# Quick Checklist for various levels
+# Quick Guideline points for Beginner and Intermediate levels
 
-### _Beginner Level - Data and AI_
-
-- [ ] Academia background of Mathematics and Statistics
-- [ ] Exposure to Programming skills
-  - [ ] Concepts of fundamentals in programming languages such as Python and R
-  - [ ] Style aspect for Python and R - mentioned above as a suggestion
-  - [ ] Readability - Has comments, indentation as per style guide
-  - [ ] Modular - code is broken into small parts, functions, sub-routines as needed
-  - [ ] Flow of control - code should perform what it is meant for
-- [ ] Understanding of Story telling
-- [ ] Understanding of Methodology to drive business problems to data problems
-- [ ] Understanding of Business KPIs and Drivers
-- [ ] Exposure to environment, tools and technologies at a high level
-- [ ] Exposure toPython or R
-- [ ] Data Visualization and EDA
-
-### _Intermediate Level - Data and AI_
-
-- [ ] Understanding of all that is required at a "Beginner Level"
-- [ ] Ability to formulate different techniques for a problem
-- [ ] Familiarity with Python and R with a grip on one of those strongly
-- [ ] Strong applied skills in EDA
-- [ ] Strong story telling and Data visualization
-- [ ] Machine Learning
-- [ ] Deep Learning
+Level|Guideline or Checklist points
+-----|-----------------------------
+[Level 1]<br>**Beginner Level - Data and AI** | **Level 1: Beginner Stage**<ul><li>1: Academia background of Mathematics and Statistics<li>2: Exposure to Programming skills<li>2.1: Concepts of fundamentals in programming languages such as Python and R<li>2.2: Style aspect for Python and R - mentioned above as a suggestion<li>2.3: Readability - Has comments, indentation as per style guide<li>2.4: Modular - code is broken into small parts, functions, sub-routines as needed<li>2.5: Flow of control - code should perform what it is meant for<li>3: Understanding of Story telling<li>4: Understanding of Methodology to drive business problems to data problems<li>5: Understanding of Business KPIs and Drivers<li>6: Exposure to environment, tools and technologies at a high level<li>7: Exposure to Python or R<li>8: Data Visualization and EDA</ul>
+[Level 2]<br>**Intermediate Level - Data and AI** | **Level 2: Intermediate Stage**<ul><li>1: IUnderstanding of all that is required at a "Beginner Level"<li>2: Ability to formulate different techniques for a problem<li>3: GFamiliarity with Python and R with a grip on one of those strongly<li>4: Strong applied skills in EDA<li>5: Strong story telling and Data visualization<li>6: Machine Learning<li>7: Deep Learning</ul>
 
 
-## Typical Use Cases by Industry (Illustrative)
+## Typical Business Use Cases by Industry (Illustrative)
 
 ### BFSI:
 
