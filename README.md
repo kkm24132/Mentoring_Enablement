@@ -105,28 +105,8 @@ Industry / Domain Area|Use Case Description
 [BFSI / FinTech]<br>**Banking and Financial Services** <br>**Capital Markets** <br>**Insurance** | <ul><li> 1: Customer Segmentation, Customer Micro-Segmentation<li> 2: Risk Analytics and Regulation, Compliance<li> 3: Cross Selling and Up-selling<li> 4: Predictive Maintenance<li> 5: Customer Life Time Value Analysis<li>6: ESales and Marketing Campaign Management<li> 7: Evaluation of Credit Worthiness</ul>
 [Retail and CPG]<br>**Retail** <br>**Consumer Packaged Goods** | <ul><li> 1: Predictive Inventory Planning, Predictive Maintenance<li> 2: Recommendation Engines<li> 3: Upsell and Cross Channel Marketing<li> 4: Market Segmentation and Targeting<li> 5: Market Basket Analysis with Association Rules<li>6: Customer ROI and Life time value analysis</ul>
 [Healthcare and Life Sciences]<br>**Healthcare** <br>**Life Sciences** | <ul><li> 1: Personalization of Patient Care<li> 2: Proactive Health Management<li> 3: Patient Triangle Optimization<li> 4: Alerts and Diagnostics from Real Time Patient Data<li> 5: Disease Identification and Risk Stratification<li>6: Healthcare Provider Sentiment Analysis</ul>
-
-
-### Travel and Hospitality:
-
-Category                    | Use Case Description          |
-----------------------------|-------------------------------|
-Travel and Hospitality      |Price Optimization, Dynamic Pricing|
-Travel and Hospitality      |Aircraft Scheduling|
-Travel and Hospitality      |Social Media Consumer Feedback and Interaction Analysis|
-Travel and Hospitality      |Customer Complaint Resolution|
-Travel and Hospitality      |Traffic Patterns and Congestion Management, Route Optimization|
-
-
-### Manufacturing:
-
-Category                    | Use Case Description          |
-----------------------------|-------------------------------|
-Manufacturing               |Predictive Maintenance|
-Manufacturing               |Demand Forecasting|
-Manufacturing               |Process Optimization|
-Manufacturing               |Telematics|
-Manufacturing               |Warranty Analytics (Warranty reserve estimation)|
+[Travel and Hospitality]<br>**Travel & Logistics** <br>**Hospitality Services** | <ul><li> 1: Price Optimization, Dynamic Pricing<li> 2: Aircraft Scheduling<li> 3: Social Media Consumer Feedback and Interaction Analysis<li> 4: Customer Complaint Resolution<li> 5: Traffic Patterns and Congestion Management, Route Optimization</ul>
+[Manufacturing]<br>**Manufacturing** | <ul><li> 1: Predictive Maintenance<li> 2: Demand Forecasting<li> 3: Process Optimization<li> 4: Telematics<li> 5: Warranty Analytics (Warranty reserve estimation)</ul>
 
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
