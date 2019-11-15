@@ -1,3 +1,10 @@
+The content here is focusing on the following:
+a) My recommended 7+1 steps for Data Science and AI mentoring approach
+b) Quick guideline points / kind of a checklist of what to look for across various levels (Beginner, Intermediate etc.)
+c) Why do we need Data and AI - what are typical business use cases that we should get a feel of?
+d) References about some key areas 
+
+
 # Data Science and AI Mentoring Approach - My 7+1 steps
 _(Step -2, -1, 0, 1, 2, 3, 4 and Infinity)_
 
@@ -91,7 +98,7 @@ Level in Data and AI|Guideline or Checklist points
 [Level 2]<br>**Intermediate Level** | **Level 2: Intermediate Stage**<ul><li>1: Understanding of all that is required at a "Beginner Level"<li>2: Ability to formulate different techniques for a problem<li>3: GFamiliarity with Python and R with a grip on one of those strongly<li>4: Strong applied skills in EDA<li>5: Strong story telling and Data visualization<li>6: Machine Learning<li>7: Deep Learning</ul>
 
 
-## Typical Business Use Cases by Industry (Illustrative)
+# Business Use Cases by Industry (Illustrative)
 
 ### BFSI:
 
