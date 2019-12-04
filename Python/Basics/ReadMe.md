@@ -7,6 +7,7 @@ This will contain basic fundamentals around Python programming for Data Science 
 - ![Exercise 1](/Python/Basics/Python_Exercise1.ipynb)
 
 ## Python Basics: using pandas for visualization and timeseries data
+- ![Dealing with Visualizations](/Python/Basics/Python_Visualizations.ipynb)
 - ![Working with Strings and Advanced operation on strings](/Python/Basics/Python_StringData.ipynb)
 - ![Dealing with Timeseries](/Python/Basics/Python_Timeseries.ipynb)
 
