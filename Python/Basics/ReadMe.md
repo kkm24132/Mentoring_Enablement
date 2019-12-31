@@ -3,7 +3,7 @@ This will contain basic fundamentals around Python programming for Data Science 
 
 ## Python Basics: Series Object and Data Frames
 - ![Dealing with Series Object](/Python/Basics/Python_SeriesObject.ipynb)
-- ![Dealing with basic statistical inferences](/Python/Basics/Python_Stats.ipynb)
+- ![Dealing with Basic Statistical Inferences](/Python/Basics/Python_Stats.ipynb)
 - ![Dealing with Data Frames](/Python/Basics/Python_DataFrames.ipynb)
 - ![Exercise 1](/Python/Basics/Python_Exercise1.ipynb)
 
