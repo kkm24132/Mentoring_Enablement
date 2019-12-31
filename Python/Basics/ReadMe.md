@@ -12,3 +12,7 @@ This will contain basic fundamentals around Python programming for Data Science 
 - ![Working with Strings and Advanced operation on strings](/Python/Basics/Python_StringData.ipynb)
 - ![Dealing with Timeseries](/Python/Basics/Python_Timeseries.ipynb)
 
+## Python Basics: Intro to Numpy for Multi-dimensional data
+
+## Python Basics: Advanced operations with Numpy Arrays
+
