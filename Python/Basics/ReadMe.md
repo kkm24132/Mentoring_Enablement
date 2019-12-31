@@ -13,6 +13,7 @@ This will contain basic fundamentals around Python programming for Data Science 
 - ![Dealing with Timeseries](/Python/Basics/Python_Timeseries.ipynb)
 
 ## Python Basics: Intro to Numpy for Multi-dimensional data
+- ![Array Creation](/Python/Basics/Python_ArrayCreation.ipynb)
 
 ## Python Basics: Advanced operations with Numpy Arrays
 
