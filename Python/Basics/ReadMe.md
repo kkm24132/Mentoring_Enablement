@@ -14,6 +14,8 @@ This will contain basic fundamentals around Python programming for Data Science 
 
 ## Python Basics: Intro to Numpy for Multi-dimensional data
 - ![Array Creation](/Python/Basics/Python_ArrayCreation.ipynb)
+- ![Printing Arrays](/Python/Basics/Python_PrintingArrays.ipynb)
+- ![Basic Operations](/Python/Basics/Python_BasicOperations.ipynb)
 
 ## Python Basics: Advanced operations with Numpy Arrays
 
