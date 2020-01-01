@@ -23,7 +23,7 @@
 - PyTorch cheatsheets here - https://pytorch.org/tutorials/beginner/ptcheat.html
 
 
-## Module Wise Learning Approach
+## Module Wise Learning Recommendations
 
 Module|Content
 ---|---
