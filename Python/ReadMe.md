@@ -18,8 +18,9 @@
 - Python Data Types at a glance
 ![Python DataTypes](/Python/Basics/Python_DataTypes.png)
 
-- ![Beginner's guide and cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
-- ![PyTorch cheatsheets](https://pytorch.org/tutorials/beginner/ptcheat.html)
+- References around Beginner's guide and cheatsheets here - https://ehmatthes.github.io/pcc/cheatsheets/README.html
+
+- PyTorch cheatsheets here - https://pytorch.org/tutorials/beginner/ptcheat.html
 
 
 ## Module Wise Learning Approach
