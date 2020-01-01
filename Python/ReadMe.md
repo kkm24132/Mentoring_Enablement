@@ -8,8 +8,8 @@
 
 
 ## Direction - How to approach
-- Please ensure to have ![Python Programming aspects covered early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
-- ![PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
+- Please ensure to cover ![Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
+- Here are some ![PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
 - ![Deep Learning with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 
