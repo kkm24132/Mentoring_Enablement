@@ -1,7 +1,9 @@
 # Python Specific Focus Areas
 
 ## Cheat Sheets
-- [Python Basics cheatsheets](/Python/Basics/PythonBasics_Cheatsheets.png)
+- Python Basics
+![Python Basics cheatsheets](/Python/Basics/PythonBasics_Cheatsheets.png)
+
 - ![Python basics using Pandas](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
 - ![Beginner's guide and cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 - ![PyTorch cheatsheets](https://pytorch.org/tutorials/beginner/ptcheat.html)
