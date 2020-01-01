@@ -12,7 +12,12 @@
 - Pandas Basics
 ![Pandas Basics cheatsheets](/Python/Basics/PandasBasics_Cheatsheets.png)
 
-- ![Python basics using Pandas](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
+- Pandas Ecosystem
+![Pandas Ecosystem](/Python/Basics/Pandas_Ecosystem.png)
+
+- Python Data Types at a glance
+![Python DataTypes](/Python/Basics/Python_DataTypes.png)
+
 - ![Beginner's guide and cheatsheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 - ![PyTorch cheatsheets](https://pytorch.org/tutorials/beginner/ptcheat.html)
 
