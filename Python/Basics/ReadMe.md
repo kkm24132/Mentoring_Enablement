@@ -29,3 +29,4 @@ This will contain basic fundamentals around Python programming for Data Science 
 ## Python Basics: Advanced Data Visualization using Seaborn
 
 - ![Searching patterns in dataset](/Python/Basics/Absenteeism_at_work_dataset.ipynb)
+- ![Figure Aesthetics: overriding and scaling plot elements](/Python/Basics/FigureAesthetics.ipynb)
