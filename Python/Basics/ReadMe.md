@@ -32,3 +32,4 @@ This will contain basic fundamentals around Python programming for Data Science 
 - ![Figure Aesthetics: overriding and scaling plot elements](/Python/Basics/FigureAesthetics.ipynb)
 - ![Plotting Categorical Data and Multipanel Data](/Python/Basics/CategoricalDataAndMultipanelData.ipynb) Box plot, Violin plots, strip plots, scatter plots, cat plot, etc.
 - ![Figure Aesthetics: overriding and scaling plot elements](/Python/Basics/DataSubsetsUsingTheFacetGrid.ipynb)
+- ![Color Palettes: Sequential and Qualitative](/Python/Basics/ColorPalettes.ipynb)
