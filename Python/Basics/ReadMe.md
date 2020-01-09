@@ -19,3 +19,11 @@ This will contain basic fundamentals around Python programming for Data Science 
 
 ## Python Basics: Advanced operations with Numpy Arrays
 
+## Python Basics: Basic Data Visualization using Seaborn
+
+- ![Setup and exploring Seaborn using sample datasets](/Python/Basics/SetupAndExploringPollutionDataset.ipynb)
+- ![Themes and Figure Styles](/Python/Basics/ThemesAndFigureStyles.ipynb)
+- ![Visualizing distributions to find patterns](/Python/Basics/VisualizingDistributionsToFindPatterns.ipynb)
+- ![Visualizing linear realtionships](/Python/Basics/VisualizingLinearRealtionships.ipynb)
+
+## Python Basics: Basic Data Visualization using Seaborn
