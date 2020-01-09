@@ -31,3 +31,4 @@ This will contain basic fundamentals around Python programming for Data Science 
 - ![Searching patterns in dataset](/Python/Basics/Absenteeism_at_work_dataset.ipynb)
 - ![Figure Aesthetics: overriding and scaling plot elements](/Python/Basics/FigureAesthetics.ipynb)
 - ![Plotting Categorical Data and Multipanel Data](/Python/Basics/CategoricalDataAndMultipanelData.ipynb) Box plot, Violin plots, strip plots, scatter plots, cat plot, etc.
+- ![Figure Aesthetics: overriding and scaling plot elements](/Python/Basics/DataSubsetsUsingTheFacetGrid.ipynb)
