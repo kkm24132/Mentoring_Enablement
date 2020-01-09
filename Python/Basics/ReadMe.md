@@ -26,4 +26,6 @@ This will contain basic fundamentals around Python programming for Data Science 
 - ![Visualizing distributions to find patterns](/Python/Basics/VisualizingDistributionsToFindPatterns.ipynb)
 - ![Visualizing linear realtionships](/Python/Basics/VisualizingLinearRealtionships.ipynb)
 
-## Python Basics: Basic Data Visualization using Seaborn
+## Python Basics: Advanced Data Visualization using Seaborn
+
+- ![Searching patterns in dataset](/Python/Basics/Absenteeism_at_work_dataset.ipynb)
