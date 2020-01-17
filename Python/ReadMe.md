@@ -2,6 +2,7 @@
 
 ## Direction - How to approach
 - Please ensure to cover ![Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
+- ![Python Basics from Google Learning - Grow with Google](https://developers.google.com/edu/python)
 - Here are some ![PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
 - Deep Learning with PyTorch: check for "A 60 minute Blitz" - https://pytorch.org/tutorials/
 
