@@ -77,7 +77,7 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
   - Go through fast.ai Part 1 (2b)
 - Repeat steps 2a through 2d (2e)
 
-* Sequence of recommended learning could be 2a, 2b, 2c, 2d, 2e etc.
+Sequence of recommended learning could be 2a, 2b, 2c, 2d, 2e etc.
 
 - [CNN for visual recognition - CS231n:Part1: Setting up the architecture](https://cs231n.github.io/neural-networks-1/)
 - [CNN for visual recognition - CS231n:Part2: Setting up the data and loss](https://cs231n.github.io/neural-networks-2/)
