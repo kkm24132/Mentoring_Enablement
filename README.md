@@ -91,8 +91,9 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 
 ## (Step:  4) Deep dive into ML and DL
 
-* Applications and Use Cases leveraging CNN, RNN
-* Area wise use cases - Forecasting, Classification etc.
+* Applications and Use Cases leveraging CNN, RNN, LSTM
+* Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
+* Research based thinking / analysis to solve novel problems / methods / approaches
 
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
