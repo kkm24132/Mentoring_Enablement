@@ -65,6 +65,7 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 * [CognitiveClass.ai course - Applied DS with R](https://cognitiveclass.ai/learn/data-science-r)
 * [Caltech CS156 ML course](http://work.caltech.edu/telecourse.html) 
 * [Christopher Bishop's Pattern Recognition and ML Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+* [Stanford Python Basics](https://cs231n.github.io/python-numpy-tutorial/)
 
 ## (Step:  2) Deep Learning Fundamentals
 
