@@ -67,14 +67,20 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 * [Christopher Bishop's Pattern Recognition and ML Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 ## (Step:  2) Deep Learning Fundamentals
-deeplearning.ai from Andrew Ng
-fast.ai from Jeremy Howard and R. Thomas
 
-* Watch DeepLearning.ai course lectures I, II, IV and V
-* Go through fast.ai Part 1
-* Watch DeepLearning.ai course lecture III
-* Go through DeepLearning.ai assignments
-* Repeat steps above
+- deeplearning.ai from Andrew Ng
+  - Watch DeepLearning.ai course lectures I, II, IV and V (2a)
+  - Watch DeepLearning.ai course lecture III (2c)
+  - Go through DeepLearning.ai assignments (2d)
+- fast.ai from Jeremy Howard and R. Thomas
+  - Go through fast.ai Part 1 (2b)
+- Repeat steps 2a through 2d (2e)
+
+* Sequence of recommended learning could be 2a, 2b, 2c, 2d, 2e etc.
+
+- [CNN for visual recognition - CS231n:Part1: Setting up the architecture](https://cs231n.github.io/neural-networks-1/)
+- [CNN for visual recognition - CS231n:Part2: Setting up the data and loss](https://cs231n.github.io/neural-networks-2/)
+- [CNN for visual recognition - CS231n:Part3: Learning and evaluation](https://cs231n.github.io/neural-networks-3/)
 
 ## (Step:  3) Delve into some depth around ML and DL
 
