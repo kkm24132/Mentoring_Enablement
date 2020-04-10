@@ -33,7 +33,7 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 * ![Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
 * ![MIT Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
 * ![Python Programming Basics](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python)
-* ![ISLR book and reference on Stats fundamentals](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+* [ISLR book and reference on Stats fundamentals](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ## (Step:  0) DS/AI Ecosystem, Methodologies
 
