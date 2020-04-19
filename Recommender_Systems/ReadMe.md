@@ -7,6 +7,7 @@ This covers areas of focus on recommender systems using AI/ML technologies.
 - Ensure surprise package is installed. Use the following ```conda install -c conda-forge scikit-surprise```
 - You can refer to [here](https://sundog-education.com/recsys/) for downloading the content
 
+### Understanding of Recommender Systems
 - Implicit and Explicit Ratings examples
   - Implicit
     - Purchase data
