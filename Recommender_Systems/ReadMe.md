@@ -7,6 +7,11 @@ This covers areas of focus on recommender systems using AI/ML technologies.
 - Ensure surprise package is installed. Use the following ```conda install -c conda-forge scikit-surprise```
 - You can refer to [here](https://sundog-education.com/recsys/) for downloading the content
 
+## Analtomy of Top N Architecture and Alternative predicted rating
+
+![Anatomy_TopN_Architecture](/Recommender_Systems/figures/Anatomy_TopN_Architecture.png)
+![Architecture_Alternative](/Recommender_Systems/figures/Architecture_Alternative.png)
+
 ### Understanding of Recommender Systems
 - Implicit and Explicit Ratings examples
   - Implicit
