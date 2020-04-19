@@ -32,3 +32,8 @@ This covers areas of focus on recommender systems using AI/ML technologies.
   - Google search (No)
   - Amazon's "people who bought also bought.." (Yes)
   
+- Components of "Top N" Recommenders
+  - Candidate generation (Yes)
+  - Filtering (Yes)
+  - Candidate shuffling (No)
+  - Ranking (Yes)
