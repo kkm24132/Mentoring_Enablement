@@ -20,9 +20,11 @@
 - Python Data Types at a glance
 ![Python DataTypes](/Python/Basics/Python_DataTypes.png)
 
-- References around Beginner's guide and cheatsheets here - https://ehmatthes.github.io/pcc/cheatsheets/README.html
+- [References around Beginner's guide and cheatsheets here](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
-- PyTorch cheatsheets here - https://pytorch.org/tutorials/beginner/ptcheat.html
+- [PyTorch cheatsheets here](https://pytorch.org/tutorials/beginner/ptcheat.html)
+
+- [11 classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 
 
 ## Module Wise Learning Recommendations
