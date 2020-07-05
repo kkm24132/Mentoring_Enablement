@@ -201,6 +201,7 @@ Some applications of Computer Vision are as follows:
 - [Unsupervised Cross-ligual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
 
+
 ## Experiments
 
 ### Part 1: R Programming with univariate and bivariate analysis
