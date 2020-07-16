@@ -102,6 +102,7 @@ Other references on fundamentals:
 * Applications and Use Cases leveraging CNN, RNN, LSTM
 * Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
 * Research based thinking / analysis to solve novel problems / methods / approaches
+* [Full stack Deep Learning - deploy AI solutions in real world](https://course.fullstackdeeplearning.com/)
 
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
