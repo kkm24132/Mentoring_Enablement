@@ -205,6 +205,12 @@ Some applications of Computer Vision are as follows:
 ## NLP
 
 - Key methods to look for: word2vec, ELMo, ULMFiT, GPT, BERT, RoBERTa, GloVe, InferSent, skip-thought
+
+Topic  | Description |
+-------|-------------|
+ELMo   |Embeddings from Language Models |
+ULMFiT |Universal Language Model Fine-Tuning method | 
+
 - [Unsupervised Cross-ligual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
 - Reference to Open Datsets could be as follows:
