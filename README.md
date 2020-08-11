@@ -213,6 +213,8 @@ ULMFiT |Universal Language Model Fine-Tuning method |
 GPT    |Generative Pre-training Transformer (OpenAI)|
 BERT   |Bi-directional Encoder Representations from Transformer |
 
+![plot of Compare view between BERT, GPT, ELMo](/figures/Compare_BERT_GPT_ELMo.png)
+
 - [Unsupervised Cross-ligual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
 - Reference to Open Datsets could be as follows:
