@@ -210,6 +210,8 @@ Topic  | Description |
 -------|-------------|
 ELMo   |Embeddings from Language Models |
 ULMFiT |Universal Language Model Fine-Tuning method | 
+GPT    |Generative Pre-training Transformer (OpenAI)|
+BERT   |Bi-directional Encoder Representations from Transformer |
 
 - [Unsupervised Cross-ligual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
