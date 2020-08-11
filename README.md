@@ -207,6 +207,12 @@ Some applications of Computer Vision are as follows:
 - Key methods to look for: word2vec, ELMo, ULMFiT, GPT, BERT, RoBERTa, GloVe, InferSent, skip-thought
 - [Unsupervised Cross-ligual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
+- Reference to Open Datsets could be as follows:
+  - [HotspotQA dataset (Question answering dataset)](https://hotpotqa.github.io/)
+  - [Amazon reviews dataset](https://snap.stanford.edu/data/web-Amazon.html)
+  - [SMS spam collection dataset in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
+  - [Recommender systems datasets (from various sites, reviews etc](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+  - [UCI spambase dataset - for classifying emails as spam or non-spam](https://archive.ics.uci.edu/ml/datasets/Spambase)
 
 
 ## Experiments
