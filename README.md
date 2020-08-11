@@ -206,16 +206,17 @@ Some applications of Computer Vision are as follows:
 
 - Key methods to look for: word2vec, ELMo, ULMFiT, GPT, BERT, RoBERTa, GloVe, InferSent, skip-thought
 
-Topic  | Description |
--------|-------------|
-ELMo   |Embeddings from Language Models |
-ULMFiT |Universal Language Model Fine-Tuning method | 
-GPT    |Generative Pre-training Transformer (OpenAI)|
-BERT   |Bi-directional Encoder Representations from Transformer |
+Topic  | Description | Remarks             |
+-------|-------------|---------------------|
+ELMo   |Embeddings from Language Models | Utilizes bi-directional LSTM for specific tasks to look at a whole sentence prior to encoding a word. ELMo's LSTM is trained on huge amount of text dataset |
+ULMFiT |Universal Language Model Fine-Tuning method | Transfer learning method for NLP task and demonstrated techniques that are key to fine tuning language model |
+GPT    |Generative Pre-training Transformer (OpenAI)| |
+BERT   |Bi-directional Encoder Representations from Transformer | |
+GloVe  |Global Vectors for word representation | Unsupervised learning algorithm for obtaining vector representations for words. Training is performed on aggregated global word-word co-occurrence statistics from a text corpus, and the resulting representations showcase interesting linear substructures of the word vector space |
 
 ![plot of Compare view between BERT, GPT, ELMo](/figures/Compare_BERT_GPT_ELMo.png)
 
-- [Unsupervised Cross-ligual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
+- [Unsupervised Cross-lingual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
 - Reference to Open Datsets could be as follows:
   - [HotspotQA dataset (Question answering dataset)](https://hotpotqa.github.io/)
