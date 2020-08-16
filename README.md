@@ -88,6 +88,7 @@ Other references on fundamentals:
 - [Intro to deep learning and neural networks](https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/)
 - [Improving neural networks with Hyper parameter tuning, Regularization and Others](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/)
 - [CNN from scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/)
+- [Amazon ML University related Computer Vision GitHub reference](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
 
 
 ## (Step:  3) Delve into some depth around ML and DL
