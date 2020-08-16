@@ -39,9 +39,9 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 
 * [Fundamentals of CRISP-DM Methodologies](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
-One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets.
+One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets. The Venn Diagram shows how specific dimensions are related.
 
-![plot of chunk crisp-dm](/figures/crisp-dm.png)
+![plot of chunk crisp-dm](/figures/crisp-dm.png)   ![plot of DS Venn Diagram](/figures/DS_VennDiagram.png)
 
 CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program.
 
@@ -58,6 +58,11 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 * [Reference for effective and professional data science coding](https://www.kaggle.com/rtatman/six-steps-to-more-professional-data-science-code)
 
 ## (Step:  1) Machine Learning Fundamentals
+
+ ![plot of ML Concepts](/figures/ML_Concepts.png)
+ 
+ ![plot of ML Lifecycle](/figures/ML_Lifecycle.png)
+
 All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 
 * [Andrew Ng's course around ML](https://www.coursera.org/learn/machine-learning)
