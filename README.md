@@ -98,11 +98,11 @@ Other references on fundamentals:
 
 ## (Step:  3) Delve into some depth around ML and DL
 
-* Go through use cases and solve a use case 
-* Use Kaggle and similar forums - ![Check here for some top forums to hone your skills](/forums.md)
-* Understand a framework and try to use it - PyTorch, Keras, Tensorflow
-* [Write effective technical blogs](https://www.youtube.com/watch?v=YODPgBadj80)
-* AutoML capability focus: for example, try to explore below libraries
+- Go through use cases and solve a use case 
+- Use Kaggle and similar forums - ![Check here for some top forums to hone your skills](/forums.md)
+- Understand a framework and try to use it - PyTorch, Keras, Tensorflow
+- [Write effective technical blogs](https://www.youtube.com/watch?v=YODPgBadj80)
+- AutoML capability focus: for example, try to explore below libraries
  - auto-sklearn 
   - If your priority is a simple, clean interface and relatively quick results
   - Natural integration with sklearn
