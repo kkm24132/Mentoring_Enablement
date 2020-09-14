@@ -103,17 +103,17 @@ Other references on fundamentals:
 - Understand a framework and try to use it - PyTorch, Keras, Tensorflow
 - [Write effective technical blogs](https://www.youtube.com/watch?v=YODPgBadj80)
 - AutoML capability focus: for example, try to explore below libraries
- - auto-sklearn 
-  - If your priority is a simple, clean interface and relatively quick results
-  - Natural integration with sklearn
-  - Works with commonly used models and methods
-  - control over timing
- - TPOT (Tree based Pipeline Optimization Tool)
-  - If priority is accuracy, with disregard for potentially long train times
-  - Emphasis on advanced pre-processing methods
-  - Outputs Python code for the best models
- - HyperOpt-sklearn
- - AutoKeras
+  - auto-sklearn 
+    - If your priority is a simple, clean interface and relatively quick results
+    - Natural integration with sklearn
+    - Works with commonly used models and methods
+    - control over timing
+  - TPOT (Tree based Pipeline Optimization Tool)
+    - If priority is accuracy, with disregard for potentially long train times
+    - Emphasis on advanced pre-processing methods
+    - Outputs Python code for the best models
+  - HyperOpt-sklearn
+  - AutoKeras
 
 ## (Step:  4) Deep dive into ML and DL
 
