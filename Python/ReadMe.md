@@ -1,4 +1,4 @@
-# Python Specific Focus Areas
+# Python Focus Areas
 
 ## Direction - How to approach
 - Please ensure to cover ![Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
