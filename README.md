@@ -125,6 +125,10 @@ Other references on fundamentals:
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 
+- ML Pipeline illustrative view using GCP
+
+![plot of ML Pipeline sample using GCP](/figures/MLPipeline1_GCP.png)
+
 # Quick Guideline points for Beginner and Intermediate levels
 
 Level in Data and AI|Guideline or Checklist points
