@@ -98,6 +98,7 @@ Other references on fundamentals:
 
 ## (Step:  3) Delve into some depth around ML and DL
 
+- Go in depth by having some interview experience and questions, references to prepare yourself for next level - ![Preparation References](/Prep_Reference/ReadMe.md)
 - Go through use cases and solve a use case 
 - Use Kaggle and similar forums - ![Check here for some top forums to hone your skills](/forums.md)
 - Understand a framework and try to use it - PyTorch, Keras, Tensorflow
