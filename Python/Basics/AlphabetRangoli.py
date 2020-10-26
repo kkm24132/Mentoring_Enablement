@@ -20,3 +20,13 @@ for i in range(0, n):
     for j in range(0, n - i):
         row[mid_position - j] = row[mid_position + j] = string.ascii_lowercase[j + i]
     print('-'.join(row))
+
+
+###############################################
+# If Input = 3
+# Then expected Output will be as below:
+# ----c----
+# --c-b-c--
+# c-b-a-b-c
+# --c-b-c--
+# ----c----
