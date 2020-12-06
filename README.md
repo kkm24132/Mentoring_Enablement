@@ -65,6 +65,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 
 * [Some key Feature Engg techniques](https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/)
+* [Model selection techniques with some visualization examples from Yellowbrick repo reference for learning](https://github.com/DistrictDataLabs/yellowbrick/tree/develop/examples)
 * [Andrew Ng's course around ML](https://www.coursera.org/learn/machine-learning)
 * [CognitiveClass.ai course - Data Science Foundations](https://cognitiveclass.ai/learn/data-science)
 * [CognitiveClass.ai course - Applied DS with Python](https://cognitiveclass.ai/learn/data-science-with-python)
