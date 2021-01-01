@@ -1,4 +1,4 @@
-**The content here is focusing on the following:**
+### **The content here is focusing on the following:**
 
 * a) My recommended **7 + 1 steps** for Data Science and AI mentoring approach
 * b) Quick **guideline points** / kind of a checklist of what to look for across various levels (Beginner, Intermediate etc.)
