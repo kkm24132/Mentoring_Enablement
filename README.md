@@ -1,8 +1,10 @@
-The content here is focusing on the following:
+**The content here is focusing on the following:**
+```
 * a) My recommended **7 + 1 steps** for Data Science and AI mentoring approach
 * b) Quick **guideline points** / kind of a checklist of what to look for across various levels (Beginner, Intermediate etc.)
 * c) Why do we need Data and AI - what are typical **business use cases** that we should get a feel of?
 * d) **References** about some key areas
+```
 
 # Data Science and AI Mentoring Approach - My 7+1 steps
 _(Step -2, -1, 0, 1, 2, 3, 4 and Infinity)_
