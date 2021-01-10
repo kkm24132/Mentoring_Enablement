@@ -133,6 +133,8 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 
 ![plot of ML Pipeline sample using GCP](/figures/MLPipeline1_GCP.png)
 
+- MLOps [MLOps Tooling Landscape](https://lnkd.in/g97vipX) 
+
 # Quick Guideline points for Beginner and Intermediate levels
 
 Level in Data and AI|Guideline or Checklist points
