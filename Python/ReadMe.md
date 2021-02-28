@@ -1,11 +1,14 @@
 # Python Focus Areas
 
 ## Direction - How to approach
-- Please ensure to cover ![Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
+- Please ensure to cover [Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
 - More Python Basics [from Google Learning - Grow with Google](https://developers.google.com/edu/python/)
 - ML Explainability using LIME ![ML Explainability using LIME](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics/MLExplainability_using_LIME.ipynb)
-- Here are some ![PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
+- Here are some [PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
 - Deep Learning with PyTorch: check for "A 60 minute Blitz" - https://pytorch.org/tutorials/
+
+## Python Certifications
+- Check [here for various levels](https://pythoninstitute.org/certification/)
 
 ## Cheat Sheets
 - Python Basics including NumPy
