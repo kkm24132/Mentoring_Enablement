@@ -58,6 +58,15 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 * [Style guide for R](https://style.tidyverse.org/)
 * [Reference for effective and professional data science coding](https://www.kaggle.com/rtatman/six-steps-to-more-professional-data-science-code)
 
+Some of the following Data and AI Platforms can be considered for learning purposes, participating and collaborating in real-life projects or initiatives: 
+- [Kaggle forum](www.Kaggle.com)
+- [DS competitions to build a better world](https://www.drivendata.org/)
+- [Enabling impact organizations to collaborate and work on a project to solutionize asap](https://omdena.com/)
+- [Crowd Analytics collaboration](https://www.crowdanalytix.com/community)
+- [Data camp to solve real world problems](https://learn.datacamp.com/projects)
+- [InnoCentive - Open innovation and crowdsourcing company which primarily focuses on problems dealing with life sciences](https://www.innocentive.com/our-solvers/)
+- [Codalab - Accelerating reproducible computational research](https://codalab.org/)
+
 ## (Step:  1) Machine Learning Fundamentals
 
  ![plot of ML Concepts](/figures/ML_Concepts.png)
