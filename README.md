@@ -144,13 +144,6 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 
 - MLOps [MLOps Tooling Landscape](https://lnkd.in/g97vipX) 
 
-# Quick Guideline points for Beginner and Intermediate levels
-
-Level in Data and AI|Guideline or Checklist points
---------------------|-----------------------------
-[Level 1]<br>**Beginner Level** | **Level 1: Beginner Stage**<ul><li>1: Academia background of Mathematics and Statistics<li>2: Exposure to Programming skills<li>2.1: Concepts of fundamentals in programming languages such as Python and R<li>2.2: Style aspect for Python and R - mentioned above as a suggestion<li>2.3: Readability - Has comments, indentation as per style guide<li>2.4: Modular - code is broken into small parts, functions, sub-routines as needed<li>2.5: Flow of control - code should perform what it is meant for<li>3: Understanding of Story telling<li>4: Understanding of Methodology to drive business problems to data problems<li>5: Understanding of Business KPIs and Drivers<li>6: Exposure to environment, tools and technologies at a high level<li>7: Exposure to Python or R<li>8: Data Visualization and EDA</ul>
-[Level 2]<br>**Intermediate Level** | **Level 2: Intermediate Stage**<ul><li>1: Understanding of all that is required at a "Beginner Level"<li>2: Ability to formulate different techniques for a problem<li>3: GFamiliarity with Python and R with a grip on one of those strongly<li>4: Strong applied skills in EDA<li>5: Strong story telling and Data visualization<li>6: Machine Learning<li>7: Deep Learning</ul>
-
 
 # Business Use Cases by Industry (Illustrative)
 
@@ -170,8 +163,16 @@ Industry / Domain Area|Use Case Description
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
-## Data Visualization
-Below are some of URLs that can be referred for learning (but not exhaustive list by any means)
+# Quick Guideline points for Beginner and Intermediate levels
+
+Level in Data and AI|Guideline or Checklist points
+--------------------|-----------------------------
+[Level 1]<br>**Beginner Level** | **Level 1: Beginner Stage**<ul><li>1: Academia background of Mathematics and Statistics<li>2: Exposure to Programming skills<li>2.1: Concepts of fundamentals in programming languages such as Python and R<li>2.2: Style aspect for Python and R - mentioned above as a suggestion<li>2.3: Readability - Has comments, indentation as per style guide<li>2.4: Modular - code is broken into small parts, functions, sub-routines as needed<li>2.5: Flow of control - code should perform what it is meant for<li>3: Understanding of Story telling<li>4: Understanding of Methodology to drive business problems to data problems<li>5: Understanding of Business KPIs and Drivers<li>6: Exposure to environment, tools and technologies at a high level<li>7: Exposure to Python or R<li>8: Data Visualization and EDA</ul>
+[Level 2]<br>**Intermediate Level** | **Level 2: Intermediate Stage**<ul><li>1: Understanding of all that is required at a "Beginner Level"<li>2: Ability to formulate different techniques for a problem<li>3: GFamiliarity with Python and R with a grip on one of those strongly<li>4: Strong applied skills in EDA<li>5: Strong story telling and Data visualization<li>6: Machine Learning<li>7: Deep Learning</ul>
+
+
+# Data Visualization and Storytelling
+Below are some of references that can be referred for learning (but not exhaustive list by any means)
 
 - [DV guidelines by Edward Tufte](https://www.edwardtufte.com/tufte/)
 - [Storytelling with Data](http://www.storytellingwithdata.com/)
@@ -182,7 +183,7 @@ Below are some of URLs that can be referred for learning (but not exhaustive lis
 - [Flowing Data](https://flowingdata.com/)
 - [Visualising Data](https://www.visualisingdata.com/)
 
-### Apache Superset - for Data exploration and visualization
+## Apache Superset - for Data exploration and visualization
 
 Reference: https://github.com/apache/incubator-superset
 Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
