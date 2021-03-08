@@ -162,6 +162,11 @@ Industry / Domain Area|Use Case Description
 [Travel and Hospitality]<br>**Travel & Logistics** <br>**Hospitality Services** | <ul><li> 1: Price Optimization, Dynamic Pricing<li> 2: Aircraft Scheduling<li> 3: Social Media Consumer Feedback and Interaction Analysis<li> 4: Customer Complaint Resolution<li> 5: Traffic Patterns and Congestion Management, Route Optimization</ul>
 [Manufacturing]<br>**Manufacturing** | <ul><li> 1: Predictive Maintenance<li> 2: Demand Forecasting<li> 3: Process Optimization<li> 4: Telematics<li> 5: Warranty Analytics (Warranty reserve estimation)</ul>
 
+- Some of other use cases could be described as follows:
+  - Improving the aftermath management of an event such as earthquake or equivalent natural disaster
+  - Preventing gang and gun violence using SMA (Social Media Analytics)
+  - Applying Deep Learning and AI to detect wildfires and help prevent the same
+
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
