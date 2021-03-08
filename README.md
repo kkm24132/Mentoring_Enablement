@@ -1,3 +1,7 @@
+**What does it take to execute our "strategy" - true power knows no bounds? What does it take to pursue our passion or short burst? Education and Learning is key to success and empowerment!! With my experience around Data Science and AI, solving business problems for global clients across industries at scale, mentoring and building teams for success, defining roadmap for maturity assessments, and many more, I strongly recommend structured "thinking" and "planning" to accomplish our goals and outcomes, which can create impact and value.**
+
+
+
 ### **The content here is focusing on the following:**
 
 * a) My recommended **7 + 1 steps** for Data Science and AI mentoring approach
