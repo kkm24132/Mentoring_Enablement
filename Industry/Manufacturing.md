@@ -17,7 +17,12 @@ Of course above are not exhaustive and gives a very high level indication of key
 
 ![Impact of AI by Industry Functions](https://github.com/kkm24132/Mentoring_Enablement/blob/master/figures/ImpactofAI_Functions.png)
 
-**3) AI Techniques Relevance to Functions:** If we refer to heat map of various Data Science techniques and their relevance to solving business use cases across functions, then we can get some interesting statistics. If we focus on Manufacturing and Supply Chain, we can understand the following:
+**3) Use Case Themes:** Typical use case themes are anyways highlighted above. As per Mickinsey analysis, the following represents some of these use case areas within Manufacturing and Supply chain management functions for business.
+- Predictive Maintenance and Yield Optimization seems to take a larger pie of the cake and hence there are lot of opportunities around that
+
+![Use Case Themes for Manufacturing](https://github.com/kkm24132/Mentoring_Enablement/blob/master/figures/UseCaseThemes.png)
+
+**4) AI Techniques Relevance to Functions:** If we refer to heat map of various Data Science techniques and their relevance to solving business use cases across functions, then we can get some interesting statistics. If we focus on Manufacturing and Supply Chain, we can understand the following:
 - Lot of focus building around Feed Forward Networks, Reinforcement Learning and CNN (Convolutional Neural Nets) etc.
 - The traditional analytics techniques are focusing around Tree based ensemble learning (Random forest etc.), Regression Analysis and Statistical Inferences etc.
 - Predictive Analytics are playing critical role and hence techniques around these will help solve key problems
