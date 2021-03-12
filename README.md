@@ -114,8 +114,9 @@ Other references on fundamentals:
 
 ## (Step:  3) Delve into some depth around ML and DL
 
-- Go in depth by having some interview experience and questions, references to prepare yourself for next level - [Preparation References](/Prep_Reference/ReadMe.md)
-- Go through use cases and solve a use case 
+- Understand Use Case themes and Use Cases that are potentially needed to be solved with the help of ML, DL and AI as a whole. [Pls refer here for some glance at use case](https://github.com/kkm24132/Mentoring_Enablement#business-use-cases-by-industry-illustrative)
+- Go through few use cases and try solving use case(s) - be it from forums such as Kaggle or from your existing ecosystem or firm and/or something equivalent. This will give first hand exposure of end to end applied Data Science.
+- Go in depth by having some interview experience and questions, references to prepare yourself for next level - [Preparation References](/Prep_Reference/ReadMe.md) 
 - Use Kaggle and similar forums - [Check here for some top forums to hone your skills](/forums.md)
 - Understand a framework and try to use it - PyTorch, Keras, Tensorflow
 - [Write effective technical blogs](https://www.youtube.com/watch?v=YODPgBadj80)
@@ -134,7 +135,6 @@ Other references on fundamentals:
 
 ## (Step:  4) Deep dive into ML and DL
 
-- Understand Use Case themes and Use Cases that are potentially needed to be solved with the help of ML, DL and AI as a whole. [Pls refer here for some glance at use case](https://github.com/kkm24132/Mentoring_Enablement#business-use-cases-by-industry-illustrative)
 - Applications and Use Cases leveraging CNN, RNN, LSTM
 - Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
 - Research based thinking / analysis to solve novel problems / methods / approaches
