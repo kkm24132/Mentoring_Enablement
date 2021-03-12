@@ -42,20 +42,13 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 
 ## (Step:  0) DS/AI Ecosystem, Methodologies
 
-* [Fundamentals of CRISP-DM Methodologies](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
+**Methodology:** [Fundamentals of CRISP-DM Methodologies](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
 
 One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets. The Venn Diagram shows how specific dimensions are related.
 
 ![plot of chunk crisp-dm](/figures/crisp-dm.png)   ![plot of DS Venn Diagram](/figures/DS_VennDiagram.png)
 
-CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program.
-
-- _Business Understanding_
-- _Data Understanding_
-- _Data Preparation_
-- _Model Development_
-- _Model Evaluation_
-- _Deployment_
+CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks about various process phases / steps / lifecycle stages in a typical data science program. Lifecycle stages are 1) Business Understanding , 2) Data Understanding , 3) Data Preparation , 4) Model Development , 5) Model Evaluation and 6) Deployment.
 
 * Understanding where to spend 80% of effort in an end to end DS journey and where to spend 20% - 80-20 aspect that I call
 * [Style guide for Python](https://www.python.org/dev/peps/pep-0008/)
