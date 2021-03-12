@@ -134,10 +134,11 @@ Other references on fundamentals:
 
 ## (Step:  4) Deep dive into ML and DL
 
-* Applications and Use Cases leveraging CNN, RNN, LSTM
-* Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
-* Research based thinking / analysis to solve novel problems / methods / approaches
-* [Full stack Deep Learning - deploy AI solutions in real world](https://course.fullstackdeeplearning.com/)
+- Understand Use Case themes and Use Cases that are potentially needed to be solved with the help of ML, DL and AI as a whole. [Pls refer here for some glance at use case](https://github.com/kkm24132/Mentoring_Enablement#business-use-cases-by-industry-illustrative)
+- Applications and Use Cases leveraging CNN, RNN, LSTM
+- Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
+- Research based thinking / analysis to solve novel problems / methods / approaches
+- [Full stack Deep Learning - deploy AI solutions in real world](https://course.fullstackdeeplearning.com/)
 
 ## (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
