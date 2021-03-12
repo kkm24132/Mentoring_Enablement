@@ -158,7 +158,7 @@ Industry / Domain Area|Use Case Description
 [Retail and CPG]<br>**Retail** <br>**Consumer Packaged Goods** | <ul><li> 1: Predictive Inventory Planning, Predictive Maintenance<li> 2: Recommendation Engines<li> 3: Upsell and Cross Channel Marketing<li> 4: Market Segmentation and Targeting<li> 5: Market Basket Analysis with Association Rules<li>6: Customer ROI and Life time value analysis</ul>
 [Healthcare and Life Sciences]<br>**Healthcare** <br>**Life Sciences** | <ul><li> 1: Personalization of Patient Care<li> 2: Proactive Health Management<li> 3: Patient Triangle Optimization<li> 4: Alerts and Diagnostics from Real Time Patient Data<li> 5: Disease Identification and Risk Stratification<li>6: Healthcare Provider Sentiment Analysis</ul>
 [Travel and Hospitality]<br>**Travel & Logistics** <br>**Hospitality Services** | <ul><li> 1: Price Optimization, Dynamic Pricing<li> 2: Aircraft Scheduling<li> 3: Social Media Consumer Feedback and Interaction Analysis<li> 4: Customer Complaint Resolution<li> 5: Traffic Patterns and Congestion Management, Route Optimization</ul>
-[Manufacturing]<br>**Manufacturing** | <ul><li> 1: Predictive Maintenance<li> 2: Demand Forecasting<li> 3: Process Optimization<li> 4: Telematics<li> 5: Warranty Analytics (Warranty reserve estimation)</ul>
+[Manufacturing]<br>**Manufacturing** | <ul><li> 1: Predictive Maintenance<li> 2: Sales and Demand Forecasting<li> 3: Process Optimization<li> 4: Telematics<li> 5: Warranty Analytics (Warranty reserve estimation) <li> 6: Procurement and Spend Analytics </ul>
 
 - Some of other use cases could be described as follows:
   - Improving the aftermath management of an event such as earthquake or equivalent natural disaster
