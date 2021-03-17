@@ -32,13 +32,20 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 
 * [How to think like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
-## (Step: -1) Fundamentals of Statistics, Linear Algebra, Programming
+## (Step: -1) Fundamentals of Building Blocks: Statistics, Linear Algebra, Programming, Need for ML
 
-* [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
-* [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
-* [MIT Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
-* [Python Programming Basics](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python)
-* [ISLR book and reference on Stats fundamentals](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+- Understanding Fundamental Concepts around ingradients such as Statistics, Linear Algebra, Programming
+  - Check for Statistics Fundamentals: [ISLR book and reference](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  - Python Programming Fundamentals [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well
+  - [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
+  - [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
+  - Linear Algebra related: [MIT reference](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
+- Need for Machine Learning
+  - You would always need a DATA framework and that follows A-C-R-A path
+    - Data Must be Adequate
+    - Data Must be Connected
+    - Data Must be Relevant
+    - Data Must be Accurate
 
 ## (Step:  0) DS/AI Ecosystem, Methodologies
 
