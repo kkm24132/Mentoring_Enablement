@@ -26,18 +26,18 @@ I would like to create an outline as an initial draft approach.
 - Mindset of holistic approach and experimental / iterative way of exploring methods
 - Mindset of combinatorial concepts around Mathematics + Computer Science + Statistics + Programming + Story telling
 - Mindset of Data Science Method/Approach to Success; Outcome and Impact driven objectives
+- [How to think like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 Focus on a business problem and trying to understand business KPIs, drivers that are required as part of goal formulation and define strategy accordingly alligning to CRISP-DM methodology from an end to end Data Science perspective. Below diagram depicts a high level outline of the approach.
 
 ![plot of business problem solving using CRISP-DM](/figures/ProblemSolving_With_CRISPDM.png)
 
-* [How to think like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
 ## (Step: -1) Fundamentals of Building Blocks: Statistics, Linear Algebra, Programming, Need for ML
 
 - Understanding Fundamental Concepts around ingradients such as Statistics, Linear Algebra, Programming
   - Check for Statistics Fundamentals: [ISLR book and reference](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  - Fundamentals of [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well
+  - Fundamentals of [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well and another one from Stanford Python Basics [here](https://cs231n.github.io/python-numpy-tutorial/)
   - [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
   - [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
   - Linear Algebra related: [MIT reference](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
@@ -72,21 +72,29 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 
 ## (Step:  1) Machine Learning Fundamentals
 
+- Go through Concepts and Methodology, End to end lifecycle stages, in depth focus into the following key techniques
+  - Classification
+  - Regression
+  - Clustering
+  - Anomaly Detection
+  - Forecasting
+
  ![plot of ML Concepts](/figures/ML_Concepts.png)
  
  ![plot of ML Lifecycle](/figures/ML_Lifecycle.png)
 
 All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 
-* [Some key Feature Engg techniques](https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/)
-* [Model selection techniques with some visualization examples from Yellowbrick repo reference for learning](https://github.com/DistrictDataLabs/yellowbrick/tree/develop/examples)
-* [Andrew Ng's course around ML](https://www.coursera.org/learn/machine-learning)
-* [CognitiveClass.ai course - Data Science Foundations](https://cognitiveclass.ai/learn/data-science)
-* [CognitiveClass.ai course - Applied DS with Python](https://cognitiveclass.ai/learn/data-science-with-python)
-* [CognitiveClass.ai course - Applied DS with R](https://cognitiveclass.ai/learn/data-science-r)
-* [Caltech CS156 ML course](http://work.caltech.edu/telecourse.html) 
-* [Christopher Bishop's Pattern Recognition and ML Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-* [Stanford Python Basics](https://cs231n.github.io/python-numpy-tutorial/)
+- Feature Engineering tricks [here](https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/)
+- Model selection tricks [here](https://github.com/DistrictDataLabs/yellowbrick/tree/develop/examples) - with few visualization examples from Yellowbrick repo reference for learning
+- Other Learning references
+  - [Andrew Ng's course around ML](https://www.coursera.org/learn/machine-learning)
+  - [CognitiveClass.ai course - Data Science Foundations](https://cognitiveclass.ai/learn/data-science)
+  - [CognitiveClass.ai course - Applied DS with Python](https://cognitiveclass.ai/learn/data-science-with-python)
+  - [CognitiveClass.ai course - Applied DS with R](https://cognitiveclass.ai/learn/data-science-r)
+  - [Caltech CS156 ML course](http://work.caltech.edu/telecourse.html) 
+  - [Christopher Bishop's Pattern Recognition and ML Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- Auto ML capabilities and practical implementation strategies using various Cloud platforms such as AWS, Azure, IBM and GCP
 
 ## (Step:  2) Deep Learning Fundamentals
 
