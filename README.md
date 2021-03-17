@@ -36,7 +36,7 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 
 - Understanding Fundamental Concepts around ingradients such as Statistics, Linear Algebra, Programming
   - Check for Statistics Fundamentals: [ISLR book and reference](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-  - Python Programming Fundamentals [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well
+  - Fundamentals of [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well
   - [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
   - [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
   - Linear Algebra related: [MIT reference](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
