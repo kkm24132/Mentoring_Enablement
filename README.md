@@ -23,8 +23,9 @@ I would like to create an outline as an initial draft approach.
 
 ## (Step: -2): Pre-Requisites: Mindset 
 
-* Mindset of Mathematics + Computer Science + Statistics + Programming + Story telling
-* Mindset of Data Science Method/Approach to Success
+- Mindset of holistic approach and experimental / iterative way of exploring methods
+- Mindset of combinatorial concepts around Mathematics + Computer Science + Statistics + Programming + Story telling
+- Mindset of Data Science Method/Approach to Success; Outcome and Impact driven objectives
 
 Focus on a business problem and trying to understand business KPIs, drivers that are required as part of goal formulation and define strategy accordingly alligning to CRISP-DM methodology from an end to end Data Science perspective. Below diagram depicts a high level outline of the approach.
 
