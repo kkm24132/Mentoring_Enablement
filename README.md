@@ -78,6 +78,8 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
   - Clustering
   - Anomaly Detection
   - Forecasting
+  - Recommendation
+  - Association
 
  ![plot of ML Concepts](/figures/ML_Concepts.png)
  
