@@ -75,7 +75,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 - Go through Concepts and Methodology, End to end lifecycle stages, in depth focus into the following key techniques
   - Classification
   - Regression
-  - Clustering
+  - Clustering (examples: K-Means, Hierarchical - with Agglomerative as well, DBSCAN: Density Based Spatial Clustering of Applications with Noise, Affinity Propagation, BIRCH: Balanced Iterative Reducing and Clustering using hierarchies, Mean-Shift, OPTICS: Ordering Points To Identify the Clustering Structure, Spectral, Expectation-Maximization using Gaussian Mixture Model - GMM)
   - Anomaly Detection
   - Forecasting
   - Recommendation
