@@ -13,7 +13,7 @@ Use Case areas:
 
 Of course above are not exhaustive and gives a very high level indication of key use case themes.
 
-**2) Key Factors of Impact
+**2) Key Factors of Impact**
 
 AI can help government agencies and authorities solve various complex problems that they face. Key factors which are of impact are as follows:
 
