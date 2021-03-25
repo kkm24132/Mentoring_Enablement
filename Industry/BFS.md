@@ -13,7 +13,7 @@ Use Case areas:
 
 Of course above are not exhaustive and gives a very high level indication of key use case themes.
 
-**2) CRM Analytics **
+**2) CRM Analytics**
 
 - Use Case Themes:
   - Lead Qualification in marketing
