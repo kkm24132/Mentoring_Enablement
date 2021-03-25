@@ -12,3 +12,20 @@ Use Case areas:
 - Predictive Maintenance
 
 Of course above are not exhaustive and gives a very high level indication of key use case themes.
+
+**2) CRM Analytics **
+
+- Use Case Themes:
+  - Lead Qualification in marketing
+  - Sentiment analysis during calls
+  - Accelerated content production and automated/semi-automated insights around those
+  - Recommendation systems / Next Best Offers 
+  - Sales forecasting
+  - Predictive Lead scoring
+  - Customer Churn reduction
+  - Virtual assistants
+- Main Benefits:
+  - Increased Sales
+  - Reduction in time and cost
+  - Improved Customer satisfaction
+  - Improved employee satisfaction
