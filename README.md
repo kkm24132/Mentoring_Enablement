@@ -264,6 +264,7 @@ Some applications of Computer Vision are as follows:
 ## NLP
 
 - Key methods to look for: word2vec, ELMo, ULMFiT, GPT, BERT, RoBERTa, GloVe, InferSent, skip-thought
+- While using AWS Comprehend try to understand an exposure towards how does it work [Refer AWS Comprehend here for NLP](https://aws.amazon.com/getting-started/hands-on/analyze-sentiment-comprehend/)
 
 Topic  | Description | Remarks             |
 -------|-------------|---------------------|
@@ -275,7 +276,7 @@ GloVe  |Global Vectors for word representation | Unsupervised learning algorithm
 
 ![plot of Compare view between BERT, GPT, ELMo](/figures/Compare_BERT_GPT_ELMo.png)
 
-- While using AWS Comprehend try to understand an exposure towards how does it work [Refer AWS Comprehend here for NLP](https://aws.amazon.com/getting-started/hands-on/analyze-sentiment-comprehend/)
+
 
 - [Unsupervised Cross-lingual representative learning](https://ruder.io/unsupervised-cross-lingual-learning/)
 - [The State and Fate of linguistic diversity](https://arxiv.org/abs/2004.090950)
