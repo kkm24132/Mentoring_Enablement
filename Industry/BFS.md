@@ -38,4 +38,56 @@ Of course above are not exhaustive and gives a very high level indication of key
 
 ![Quant Techniques](https://github.com/kkm24132/FS_Banking/blob/master/figure/QuantitativeTechniques.png)
 
+**5) Sub-category Segments**
 
+- **Credit Services**
+  - Origination
+    - Document management
+    - Credit analysis
+    - Disbursement
+  - Post Sales
+    - Subrogation
+    - Refinancing
+    - Inter rate and other changes
+    - Payoffs
+    - Reporting
+  - Collaterals
+    - Documentation analysis
+    - Financial investigation
+    - Data entry
+    - Issuing and Archiving
+  - Collections
+    - Soft and hard actions
+    - Litigation
+    - Delinquency
+    - Claims management
+  - NPL Credit Line Analysis
+    - Bad debt analysis and investigation
+    - Dossier creation
+    - Litigations support
+- **Payment Services**
+  - Domestics and Foreign payments
+    - Analysis
+    - Data entry
+    - Authorization and rejection
+    - Reconciliation
+    - Reporting
+  - Other in/out payments
+    - Direct debits, cash, cheques, escrow, mobile, reconciliation, reporting
+  - Credit and Debit cards
+  - Collections
+- **Core Banking Services**
+  - Master data
+  - Bank account management
+  - Succession and Garnishment
+  - Cash and ATM
+  - Other Services
+- **Compliance** 
+  - KYC/AML Offerings
+    - Identity verification
+    - Transaction monitoring
+    - PEP / sanctions screening
+  - Conformity Check
+  - Juridicial Investigation
+  - Testing
+  - Outreach
