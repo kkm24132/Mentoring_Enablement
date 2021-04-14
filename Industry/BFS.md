@@ -30,7 +30,7 @@ Of course above are not exhaustive and gives a very high level indication of key
   - Improved Customer satisfaction
   - Improved employee satisfaction
 
-3) Value Drivers for differentiation
+**3) Value Drivers for differentiation**
 
 ![Value Drivers for BFS](https://github.com/kkm24132/FS_Banking/blob/master/figure/ValueDrivers_AnalyticsCapability.png)
 
