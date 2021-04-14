@@ -34,3 +34,8 @@ Of course above are not exhaustive and gives a very high level indication of key
 
 ![Value Drivers for BFS](https://github.com/kkm24132/FS_Banking/blob/master/figure/ValueDrivers_AnalyticsCapability.png)
 
+**4) Quantitative Techniques**
+
+![Quant Techniques](https://github.com/kkm24132/FS_Banking/blob/master/figure/QuantitativeTechniques.png)
+
+
