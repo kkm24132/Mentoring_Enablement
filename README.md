@@ -100,6 +100,7 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 
 ## (Step:  2) Deep Learning Fundamentals
 
+- [Deep Learning](https://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville (2015)
 - deeplearning.ai from Andrew Ng
   - Watch DeepLearning.ai course lectures I, II, IV and V (2a)
   - Watch DeepLearning.ai course lecture III (2c)
@@ -110,6 +111,8 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 
 Sequence of recommended learning could be 2a, 2b, 2c, 2d, 2e etc.
 
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (Dec 2014)
+- [Deep Learning by MSFT](https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/?from=http%3A%2F%2Fresearch.microsoft.com%2Fpubs%2F209355%2Fdeeplearning-nowpublishing-vol7-sig-039.pdf) Research (2014)
 - [CNN for visual recognition - CS231n:Part1: Setting up the architecture](https://cs231n.github.io/neural-networks-1/)
 - [CNN for visual recognition - CS231n:Part2: Setting up the data and loss](https://cs231n.github.io/neural-networks-2/)
 - [CNN for visual recognition - CS231n:Part3: Learning and evaluation](https://cs231n.github.io/neural-networks-3/)
