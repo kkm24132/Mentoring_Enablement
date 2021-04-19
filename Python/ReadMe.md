@@ -12,6 +12,7 @@
 - [1. Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_1?crid=26W0VBS8V3T7F&dchild=1&keywords=python+for+data+analysis%2C+2nd+edition&qid=1618843706&s=books&sprefix=Python+for+Data+Anal%2Cstripbooks-intl-ship%2C350&sr=1-1): Data Wrangling with Pandas, NumPy, and IPython
 - [2. Machine Learning with Python Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=sr_1_1?dchild=1&keywords=Machine+Learning+with+Python+Cookbook&qid=1618843743&s=books&sr=1-1): Practical Solutions from Preprocessing to Deep Learning
 - [3. Automate Boring Stuff Python 2nd Edition](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_2?dchild=1&keywords=Automate+the+Boring+Stuff+with+Python%3A+Practical+Programming+for+Total+Beginners&qid=1618843636&s=books&sr=1-2)
+- [4. Data Visualization in Python](https://www.amazon.in/Data-Visualization-Python-Daniel-Nelson-ebook/dp/B08QVJJFG8/ref=sr_1_2?crid=1H6E1SSQCG5F1&dchild=1&keywords=data+visualization+in+Python&qid=1618843961&s=books&sprefix=Data+Visua%2Caps%2C281&sr=1-2)
 
 ## Certifications
 - Check [here for various levels](https://pythoninstitute.org/certification/)
