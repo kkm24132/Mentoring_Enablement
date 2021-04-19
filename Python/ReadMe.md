@@ -2,7 +2,7 @@
 
 ## Direction - How to approach
 - Please ensure to cover [Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
-- Please pick one of these [Books](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python#python-books) to follow basics and fundamentals
+- Please pick one of these [Books](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python#books) to follow basics and fundamentals
 - More Python Basics [from Google Learning - Grow with Google](https://developers.google.com/edu/python/)
 - ML Explainability using LIME [ML Explainability using LIME](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics/MLExplainability_using_LIME.ipynb)
 - Here are some [PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
