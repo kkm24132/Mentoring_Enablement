@@ -2,21 +2,21 @@
 
 ## Direction - How to approach
 - Please ensure to cover [Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
-- Please pick one of these [Books to follow basics and fundamentals](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python#python-books)
+- Please pick one of these [Books](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python#python-books) to follow basics and fundamentals
 - More Python Basics [from Google Learning - Grow with Google](https://developers.google.com/edu/python/)
 - ML Explainability using LIME [ML Explainability using LIME](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics/MLExplainability_using_LIME.ipynb)
 - Here are some [PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
 - Deep Learning with PyTorch: check for "A 60 minute Blitz" - https://pytorch.org/tutorials/
 
-## Python Books 
+## Books 
 - [1. Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_1?crid=26W0VBS8V3T7F&dchild=1&keywords=python+for+data+analysis%2C+2nd+edition&qid=1618843706&s=books&sprefix=Python+for+Data+Anal%2Cstripbooks-intl-ship%2C350&sr=1-1): Data Wrangling with Pandas, NumPy, and IPython
 - [2. Machine Learning with Python Cookbook](https://www.amazon.com/Machine-Learning-Python-Cookbook-Preprocessing/dp/1491989386/ref=sr_1_1?dchild=1&keywords=Machine+Learning+with+Python+Cookbook&qid=1618843743&s=books&sr=1-1): Practical Solutions from Preprocessing to Deep Learning
 - [3. Automate Boring Stuff Python 2nd Edition](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/ref=sr_1_2?dchild=1&keywords=Automate+the+Boring+Stuff+with+Python%3A+Practical+Programming+for+Total+Beginners&qid=1618843636&s=books&sr=1-2)
 
-## Python Certifications
+## Certifications
 - Check [here for various levels](https://pythoninstitute.org/certification/)
 
-## Python Cheat Sheets
+## Cheat Sheets
 - Python Basics including NumPy
 ![Python Basics cheatsheets](/Python/Basics/PythonBasics_Cheatsheets.png)
 
