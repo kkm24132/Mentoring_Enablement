@@ -11,7 +11,7 @@ Then we are all set.
 ## R installation
 
 - [1. Please follow this : Detailed Steps](https://www.andrewheiss.com/blog/2012/04/17/install-r-rstudio-r-commander-windows-osx/) for installation and setup.
-- 2. R and RStudio and/or other editors and most of those aspects can be referred in above.
+- [2. R and RStudio and/or other editors](https://www.rstudio.com/products/rstudio/download/) and most of those aspects can be referred in above as mentioned already.
 
 
 This covers some of the important aspects of installation, configuration aspects for programming languages that are used for Data Science and AI - R, Python etc.
