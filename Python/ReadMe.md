@@ -4,6 +4,8 @@
 - Please ensure to cover [Python Programming aspects early in your learning journey](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics)
 - Please pick one of these [Books](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python#books) to follow basics and fundamentals
 - More Python Basics [from Google Learning - Grow with Google](https://developers.google.com/edu/python/)
+- Check this [Blog](https://javarevisited.blogspot.com/2018/05/10-reasons-to-learn-python-programming.html#axzz6sUf8yJKV) on - 10 reasons to learn Python in 2021
+- [5 best courses to learn ML and Data Science - using both Python and R](https://javarevisited.blogspot.com/2018/03/top-5-data-science-and-machine-learning-online-courses-to-learn-online.html#axzz6sUf8yJKV)
 - ML Explainability using LIME [ML Explainability using LIME](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python/Basics/MLExplainability_using_LIME.ipynb)
 - Here are some [PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
 - Deep Learning with PyTorch: check for "A 60 minute Blitz" - https://pytorch.org/tutorials/
