@@ -7,6 +7,10 @@
 - Here are some [PyTorch related examples](https://github.com/pytorch/examples/) (Focus around examples in pytorch in vision, text, reinforcement learning etc.)
 - Deep Learning with PyTorch: check for "A 60 minute Blitz" - https://pytorch.org/tutorials/
 
+## Python Books 
+- [1. Python for Data Analysis](https://www.amazon.com/gp/product/1491957662?tag=javamysqlanta-20): Data Wrangling with Pandas, NumPy, and IPython
+- [2. Machine Learning with Python Cookbook](https://www.amazon.com/gp/product/1491989386?tag=javamysqlanta-20): Practical Solutions from Preprocessing to Deep Learning
+
 ## Python Certifications
 - Check [here for various levels](https://pythoninstitute.org/certification/)
 
