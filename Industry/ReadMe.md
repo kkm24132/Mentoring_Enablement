@@ -41,3 +41,6 @@ Following representations display Estimated impact of Artificial Intelligence an
 
 ![Impact by Data Generation](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/BusinessImpact_DataGeneration.png)
 
+### Business impact: Other Optimizations
+
+![Impact by Other Optimizations](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/BusinessImpact_OtherOptimization.png)
