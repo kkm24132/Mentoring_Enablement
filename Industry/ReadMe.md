@@ -33,3 +33,7 @@ Following representations display Estimated impact of Artificial Intelligence an
 
 ![Impact by Recommender Systems](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/BusinessImpact_RecommenderSystems.png)
 
+### Business impact: By Ranking
+
+![Impact by Ranking](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/BusinessImpact_Ranking.png)
+
