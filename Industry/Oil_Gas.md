@@ -38,6 +38,19 @@
 
 ![Value at stake](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/OilGas_ValueAtStake.png)
 
+## How Data and AI Can help boost efficiency
+
+![Oil and Gas 1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/OilnGas_01.png)
+
+
+![Oil and Gas 2](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/OilnGas_02.png)
+
+
+![Oil and Gas 3](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/OilnGas_03.png)
+
+
+![Oil and Gas 4](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/OilnGas_04.png)
+
 
 ## References
 - [Refer to the Digital Transformation Initiative in Oil and Gas at World Economic Forum](https://reports.weforum.org/digital-transformation/wp-content/blogs.dir/94/mp/files/pages/files/dti-oil-and-gas-industry-white-paper.pdf)
