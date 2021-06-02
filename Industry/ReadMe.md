@@ -1,6 +1,6 @@
 **This repository area captures industry wise use cases / use case themes and related content with regards to Data Science and AI.**
 
-# Impact of AI by Industry 
+# Impact of AI by Industry, by ML Areas 
 
 Following representations display Estimated impact of Artificial Intelligence and other Analytics industry function driven by type of Business Problems.
 
