@@ -1,5 +1,7 @@
 **This repository area captures industry wise use cases / use case themes and related content with regards to Data Science and AI.**
 
+# Impact of AI by Industry 
+
 Following representations display Estimated impact of Artificial Intelligence and other Analytics industry function driven by type of Business Problems.
 
 **Problem Types** include the following:
