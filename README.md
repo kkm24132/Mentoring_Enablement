@@ -101,6 +101,7 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
 ## (Step:  2) Deep Learning Fundamentals
 
 - [Deep Learning](https://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville (2015)
+- Deep Dive around Deep Learning [with D2L.ai](https://d2l.ai/index.html) and Core Foundational aspects as well
 - deeplearning.ai from Andrew Ng
   - Watch DeepLearning.ai course lectures I, II, IV and V (2a)
   - Watch DeepLearning.ai course lecture III (2c)
@@ -147,7 +148,7 @@ Other references on fundamentals:
 
 ## (Step:  4) Deep dive into ML and DL
 
-- [Dive into Deep Learning](https://d2l.ai/index.html)
+- Dive into Deep Learning - [with D2L.ai](https://d2l.ai/index.html)
 - Applications and Use Cases leveraging CNN, RNN, LSTM
 - Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
 - Research based thinking / analysis to solve novel problems / methods / approaches
