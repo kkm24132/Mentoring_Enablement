@@ -147,6 +147,7 @@ Other references on fundamentals:
 
 ## (Step:  4) Deep dive into ML and DL
 
+- [Dive into Deep Learning](https://d2l.ai/index.html)
 - Applications and Use Cases leveraging CNN, RNN, LSTM
 - Area wise use cases around - Forecasting, Classification, Clustering, Association etc.
 - Research based thinking / analysis to solve novel problems / methods / approaches
