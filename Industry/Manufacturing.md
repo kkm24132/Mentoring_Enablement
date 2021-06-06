@@ -32,6 +32,5 @@ Of course above are not exhaustive and gives a very high level indication of key
 
 
 
-*Disclaimer: The content here is based on experience, reading and my personal understanding around that and is purely for my learning purposes and does not necessarily reflect any firm's views, opinions, objective or any forward looking viewpoints.
-Credit from sources: Some of the analysis from McKinsey analysis reports
+*Disclaimer: The content here is based on experience, reading and my personal understanding around that and is purely for my learning purposes and does not necessarily reflect any firm's views, opinions, objective or any forward looking viewpoints. Credit from sources: Some of the analysis from McKinsey analysis reports
 *
