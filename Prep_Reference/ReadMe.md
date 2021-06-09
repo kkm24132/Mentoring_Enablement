@@ -26,5 +26,9 @@ Intent is to think what is relevant, what we can refer to improvise ourselves fr
 
 - https://lnkd.in/erdjQnr
 
+## SQL for Data Science Pointers
+
+- https://www.kaggle.com/getting-started/244878
+
 Of course these are just references from some readings. There are lot of focus areas can be looked into. However, key is to focus on some specific aspects and take baby steps to reach our goal.
 
