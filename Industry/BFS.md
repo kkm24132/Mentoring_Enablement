@@ -91,3 +91,14 @@ Of course above are not exhaustive and gives a very high level indication of key
   - Juridicial Investigation
   - Testing
   - Outreach
+
+**6) Fraud Analytics**
+
+![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics1.png)
+
+
+![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics2.png)
+
+
+
+
