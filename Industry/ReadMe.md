@@ -4,6 +4,8 @@
 
 ![AI Industry Heatmap](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/AI_Industry_Heatmap.png)
 
+Source: McKinsey analysis 
+
 ## Impact of AI by Industry, by ML Problem Types 
 
 Following representations display Estimated impact of Artificial Intelligence and other Analytics industry function driven by type of Business Problems.
