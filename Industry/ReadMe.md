@@ -2,6 +2,8 @@
 
 ## Impact of AI Techniques by Industry - both DL and Traditional ML
 
+If we observe the analysis below by Mckinsey reports, we see that the frequency of usage of various industry use cases are spread across various techniques such as Traditional Machine Learning and Deep Learning techniques.
+
 ![AI Industry Heatmap](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/AI_Industry_Heatmap.png)
 
 Source: McKinsey analysis 
