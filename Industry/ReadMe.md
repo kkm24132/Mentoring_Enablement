@@ -1,6 +1,10 @@
 **This repository area captures industry wise use cases / use case themes and related content with regards to Data Science and AI.**
 
-# Impact of AI by Industry, by ML Problem Types 
+## Impact of AI Techniques by Industry - both DL and Traditional ML
+
+![AI Industry Heatmap](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/AI_Industry_Heatmap.png)
+
+## Impact of AI by Industry, by ML Problem Types 
 
 Following representations display Estimated impact of Artificial Intelligence and other Analytics industry function driven by type of Business Problems.
 
