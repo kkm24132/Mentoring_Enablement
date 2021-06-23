@@ -1,4 +1,4 @@
-**This repository area captures industry wise use cases / use case themes and related content with regards to Data Science and AI.**
+**This repository area captures industry wise use cases / use case themes and related content with regards to Data Science and AI. We look at various aspects of impact by various methods.**
 
 ## Impact of AI Techniques by Industry - both DL and Traditional ML
 
