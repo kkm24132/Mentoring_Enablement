@@ -1,7 +1,7 @@
 
-## Banking and Financial Services Industry Use Cases / Problems where Data and AI play role
+# Banking and Financial Services Industry Use Case Focus
 
-**1) Objective - is to capture use cases around BFS specific industry segment where Data Science and AI play significant amount of role and impact.**
+## Objective - To capture use cases around BFS specific industry segment where Data Science and AI play significant amount of role and impact
 
 Use Case areas:
 - Customer Analytics
@@ -11,9 +11,9 @@ Use Case areas:
 - Operational Analytics
 - Predictive Maintenance
 
-Of course above are not exhaustive and gives a very high level indication of key use case themes.
+These are non-exhaustive and gives a very high level indication of key use case themes.
 
-**2) CRM Analytics**
+## CRM Analytics
 
 - Use Case Themes:
   - Lead Qualification in marketing
@@ -30,15 +30,15 @@ Of course above are not exhaustive and gives a very high level indication of key
   - Improved Customer satisfaction
   - Improved employee satisfaction
 
-**3) Value Drivers for differentiation**
+## Value Drivers for differentiation
 
 ![Value Drivers for BFS](https://github.com/kkm24132/FS_Banking/blob/master/figure/ValueDrivers_AnalyticsCapability.png)
 
-**4) Quantitative Techniques**
+## Quantitative Techniques
 
 ![Quant Techniques](https://github.com/kkm24132/FS_Banking/blob/master/figure/QuantitativeTechniques.png)
 
-**5) Sub-category Segments**
+## Sub-category Segments
 
 - **Credit Services**
   - Origination
@@ -92,12 +92,17 @@ Of course above are not exhaustive and gives a very high level indication of key
   - Testing
   - Outreach
 
-**6) Fraud Analytics**
+## Fraud Analytics
 
 ![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics1.png)
 
 
 ![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics2.png)
+
+
+## Hands-On Use Cases
+
+- Loan Approval Prediction
 
 
 
