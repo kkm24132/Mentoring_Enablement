@@ -1,5 +1,15 @@
 # AI in Insurance Industry 
 
+## Use Case Themes
+
+- Predictive Analytics for New Customer Risk and Fraud
+- Predictive Analytics capabilities around Insurance Pricing and Product Optimization
+- Predictive Analytics in Insurance Claims
+- Predictive Analytics for Insurance Agent Fraud and Policy Manipulation
+- Optimizing User Experience through Dynamic Engagement
+- Predictive Risk Scoring with Behaviour Analytics
+
+
 ## Use Case Scenarios
 
 - Health insurance cross sell prediction - [Predict Health Insurance Owner's who will also be interested in Vehicle Insurance](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction), [Another Reference for Cross Sell Prediction](https://www.kaggle.com/roshankumarg/rank-10-solution-cross-sell-prediction-hackathon)
