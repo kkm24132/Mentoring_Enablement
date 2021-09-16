@@ -31,6 +31,18 @@ Of course above are not exhaustive and gives a very high level indication of key
 ![Data Science Techniques relevancy to Business Functions Mapping](https://github.com/kkm24132/Mentoring_Enablement/blob/master/figures/DSTechToFunctionsMap.png)
 
 
+## Mining Industry Use Cases / Problems where Data and AI play role
+
+- Remote exploitation of mines and error elimination through data analysis
+  - AI can help user to better understand the environment and the terrain where exploitation is to begin. The exposure of frontline mineworkers to dangerous situations is going to be reduced.
+  - Derived data can also be used for reclamation programs, where re-establishment of the natural environment of the area is required
+- Autonomous mining vehicles inside the mine that can be remotely operated and managed
+- How can autonomous personnel tracking sharpen safety during the mining process - using sensors data analysis
+- Autonomous mining to remotely identify copper grades with the lowest possible error rate
+- Neural networks for efficient beneficiation
+  - Smart sorting is already applied in the mining industry for minerals and ores, and AI algorithms powered by color sensors and X-ray data are improving the quality and quantity of, for example, the diamond recovery process.
+
+These are few use cases for example mentioned above. Lots of such use cases can be thought of.
 
 *Disclaimer: The content here is based on experience, reading and my personal understanding around that and is purely for my learning purposes and does not necessarily reflect any firm's views, opinions, objective or any forward looking viewpoints. Credit from sources: Some of the analysis from McKinsey analysis reports
 *
