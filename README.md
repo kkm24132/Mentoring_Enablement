@@ -248,6 +248,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - [Reddit or R/datasets](https://www.reddit.com/r/datasets/comments/9oai7u/list_of_public_datasets/)
 - [Quandl](https://www.quandl.com/)
 - [Academic Torrents](http://academictorrents.com/)
+- This is a great compilation of [Awesome Public DataSets](https://github.com/awesomedata/awesome-public-datasets) as well
 
 ## Computer Vision
 Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
