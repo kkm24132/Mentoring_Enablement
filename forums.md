@@ -22,7 +22,6 @@ Focus on few dimensions:
 - [Youth4work](https://www.youth4work.com/)
 - [Galvanize](https://www.galvanize.com/)
 - [DrivenData](https://www.drivendata.org/)
-- International Data Analysis Olympiad (IDAO)
 
 This is just a non-exhaustive list and representation for learning purposes. However, we personally recommend building some time on Kaggle platform and learn over a period of time by demonstrating capability around that.
 
@@ -32,3 +31,11 @@ This is just a non-exhaustive list and representation for learning purposes. How
 - Should be able to read, digest and understand research papers / publication papers within 1 yr of learning Data Science skills
 - 1-2 Patents or Publications within 2 yrs into Data Science field
 - Try to move from Novice to Contributor within 1-2 weeks in Kaggle, and then to Expert level in Kaggle within few months depending your time and participation. Key is to be regular and then continuously learn
+
+### Involvement in other Quorums
+
+- [KDNuggets](http://www.kdnuggets.com/)
+- [Data Science Central](https://www.datasciencecentral.com/)
+- [Cross Validated](https://stats.stackexchange.com/)
+
+
