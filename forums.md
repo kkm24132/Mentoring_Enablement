@@ -5,9 +5,9 @@ Data Science communities are extremely critical since it creates a platform for 
 ### Top Forums for Data Scientists / Aspiring Data Scientists to start venturing into
 
 - Kaggle
-- Topcoder
-- Codalab
-- Machine Hack
+- [Topcoder](https://www.topcoder.com/)
+- [Codalab](https://codalab.org/)
+- [Machine Hack](https://machinehack.com/)
 - Analytics Vidhya
 - Data Science Challenges
 - Tianchi Big Data Competition
