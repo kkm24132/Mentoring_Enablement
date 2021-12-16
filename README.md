@@ -36,6 +36,7 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 ## (Step: -1) Fundamentals of Building Blocks: Statistics, Linear Algebra, Programming, Need for ML
 
 - Understanding Fundamental Concepts around ingradients such as Statistics, Linear Algebra, Programming
+  - R for data science [by Hadley W and Garret G](https://r4ds.had.co.nz/)
   - Check for Statistics Fundamentals: [ISLR book and reference](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
   - Fundamentals of [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well and another one from Stanford Python Basics [here](https://cs231n.github.io/python-numpy-tutorial/)
   - [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
