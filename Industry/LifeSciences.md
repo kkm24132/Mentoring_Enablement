@@ -33,3 +33,8 @@ When we look at this domain, following could be potential broad areas where AI/M
 ### Areas of Impact
 
 ![Areas of Impact](https://github.com/kkm24132/Mentoring_Enablement/blob/master/figures/Healthcare_AI_Impact.png)
+
+
+### Patients and Partnerships 2020 at PharmaPhorum
+
+- https://deep-dive.pharmaphorum.com/magazine/patients-and-partnerships-2020/contents/
