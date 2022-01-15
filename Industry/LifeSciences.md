@@ -41,6 +41,7 @@ When we look at this domain, following could be potential broad areas where AI/M
 
 
 ### Biopharma battlegrounds are as follows: (automation can drive productivity, growth and innovation):
+
 - Unlocking disease understanding
 - Disruptive product design
 - Integrated evidence generation
@@ -48,3 +49,6 @@ When we look at this domain, following could be potential broad areas where AI/M
 - Medical Impact
 - Precise Real-time customer and patient engagement
 - Industry 4.0
+
+Refer [here](https://www.mckinsey.com/industries/life-sciences/our-insights/automation-and-the-future-of-work-in-the-us-biopharma-industry) for McKinsey analysis on this.
+
