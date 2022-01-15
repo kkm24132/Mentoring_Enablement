@@ -38,3 +38,13 @@ When we look at this domain, following could be potential broad areas where AI/M
 ### Patients and Partnerships 2020 at PharmaPhorum
 
 - https://deep-dive.pharmaphorum.com/magazine/patients-and-partnerships-2020/contents/
+
+
+### Biopharma battlegrounds are as follows: (automation can drive productivity, growth and innovation):
+- Unlocking disease understanding
+- Disruptive product design
+- Integrated evidence generation
+- Operational excellence in R&D
+- Medical Impact
+- Precise Real-time customer and patient engagement
+- Industry 4.0
