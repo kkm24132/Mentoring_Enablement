@@ -38,7 +38,9 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 - Understanding Fundamental Concepts around ingradients such as Statistics, Linear Algebra, Programming
   - [Probability for Data Science](https://probability4datascience.com/)
   - R for data science [by Hadley W and Garret G](https://r4ds.had.co.nz/)
-  - Check for Statistics Fundamentals: [ISLR book and reference](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  - Check for Statistics Fundamentals: 
+    - [ThinkStats](https://www.greenteapress.com/thinkstats/html/index.html)
+    - [ISLR book and reference](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
   - Fundamentals of [Python Programming](https://github.com/kkm24132/Mentoring_Enablement/tree/master/Python) - this is just an example, you can also explore R Programming as well and another one from Stanford Python Basics [here](https://cs231n.github.io/python-numpy-tutorial/)
   - [MIT Single Variable Calculus](https://www.youtube.com/watch?v=jbIQW0gkgxo&t=1s)
   - [Khan Academy Calculus](https://www.khanacademy.org/math/calculus-1)
@@ -50,7 +52,7 @@ Focus on a business problem and trying to understand business KPIs, drivers that
     - Data Must be Relevant
     - Data Must be Accurate
 
-## (Step:  0) DS/AI Ecosystem, Methodologies
+## (Step:  0) DS/AI Ecosystem, Methodologies and DV/EDA
 
 - **Methodology:** [Fundamentals of CRISP-DM Methodologies](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets. The Venn Diagram shows how specific dimensions are related.
 
@@ -63,7 +65,18 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 - [Style guide for R](https://style.tidyverse.org/)
 - [Reference for effective and professional data science coding](https://www.kaggle.com/rtatman/six-steps-to-more-professional-data-science-code)
 
-- **Data Science and AI Forums:** Some of the following Data and AI forums can be considered for learning purposes, participating and collaborating in real-life projects or initiatives: 
+- **Data Visualization and EDA**
+  - [Data Visualization Concepts and Principles](https://www.youtube.com/watch?v=nPkYcnW9anY&list=PLVhva2EzNlz0Y8_syb46G-IxprOGhemht)
+  - Intro and AutoEDA using [Pandas Profiling here](https://www.youtube.com/watch?v=KcWV-qMOB-c)
+  - AutoEDA using [DTale](https://www.youtube.com/watch?v=2yHQm7zq0EQ)
+  - AutoEDA using [LUX](https://www.youtube.com/watch?v=BwIao3Ixgmg)
+  - AutoEDA using [DataPrep](https://www.youtube.com/watch?v=_REZYbWUa8w)
+  - AutoEDA using [SweetViz](https://www.youtube.com/watch?v=uVLZJ2IA7eE)
+  - [Missing value analysis](https://www.linkedin.com/feed/update/urn:li:activity:6802835822195425280)
+  - [Outlier treatment](https://www.linkedin.com/feed/update/urn:li:activity:6803344256040779777)
+  - [Feature transformation and creation](https://www.linkedin.com/feed/update/urn:li:activity:6803690451951083521)
+
+- Data Science and AI Forums: Some of the following Data and AI forums can be considered for learning purposes, participating and collaborating in real-life projects or initiatives: 
   - [Kaggle forum](www.Kaggle.com)
   - [DS competitions to build a better world](https://www.drivendata.org/)
   - [Enabling impact organizations to collaborate and work on a project to solutionize asap](https://omdena.com/)
@@ -75,11 +88,12 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
 ## (Step:  1) Machine Learning Fundamentals
 
 - Go through Concepts and Methodology, End to end lifecycle stages, in depth focus into the following key techniques
-  - Classification
-  - Regression
+- Core ML Methods
+  - Regression Techniques - [Regression YouTube Ref](https://www.youtube.com/watch?v=poUehuHfeFc&list=PLVhva2EzNlz1wEomhijoN9qOFBrcb_h3z)
+  - Classification (Decision Trees, Random Forest, XGBoost, CatBoost, AdaBoost, LightGBM, SVM etc.)
   - Clustering (examples: K-Means, Hierarchical - with Agglomerative as well, DBSCAN: Density Based Spatial Clustering of Applications with Noise, Affinity Propagation, BIRCH: Balanced Iterative Reducing and Clustering using hierarchies, Mean-Shift, OPTICS: Ordering Points To Identify the Clustering Structure, Spectral, Expectation-Maximization using Gaussian Mixture Model - GMM) , [More Algo details](https://developers.google.com/machine-learning/clustering/clustering-algorithms)
   - Anomaly Detection
-  - Forecasting
+  - Time series Forecasting
   - Recommendation
   - Association
 
