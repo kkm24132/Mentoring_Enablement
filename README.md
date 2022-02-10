@@ -30,7 +30,7 @@ Data Science is a journey and there are no short cuts around it like everything 
 
 I would like to create an outline as an initial draft approach.
 
-## (Step: -2): Pre-Requisites: Mindset 
+# 3. (Step: -2): Pre-Requisites: Mindset 
 
 - Mindset of holistic approach and experimental / iterative way of exploring methods
 - Mindset of combinatorial concepts around Mathematics + Computer Science + Statistics + Programming + Story telling
@@ -42,7 +42,7 @@ Focus on a business problem and trying to understand business KPIs, drivers that
 ![plot of business problem solving using CRISP-DM](/figures/ProblemSolving_With_CRISPDM.png)
 
 
-## (Step: -1) Fundamentals of Building Blocks: Statistics, Linear Algebra, Programming, Need for ML
+# 4. (Step: -1) Fundamentals of Building Blocks: Statistics, Linear Algebra, Programming, Need for ML
 
 - Understanding Fundamental Concepts around ingradients such as Statistics, Linear Algebra, Programming
   - [Probability for Data Science](https://probability4datascience.com/)
@@ -61,7 +61,7 @@ Focus on a business problem and trying to understand business KPIs, drivers that
     - Data Must be Relevant
     - Data Must be Accurate
 
-## (Step:  0) DS/AI Ecosystem, Methodologies and DV/EDA
+# 5. (Step:  0) DS/AI Ecosystem, Methodologies and DV/EDA
 
 - **Methodology:** [Fundamentals of CRISP-DM Methodologies](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) One must understand key aspects on CRISP-DM methodlogy, applications / use cases of Machine Learning. This repository focuses on some tutorials using open datasets. The Venn Diagram shows how specific dimensions are related.
 
@@ -94,7 +94,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
   - [InnoCentive - Open innovation and crowdsourcing company which primarily focuses on problems dealing with life sciences](https://www.innocentive.com/our-solvers/)
   - [Codalab - Accelerating reproducible computational research](https://codalab.org/)
 
-## (Step:  1) Machine Learning Fundamentals
+# 6. (Step:  1) Machine Learning Fundamentals
 
 - Go through Concepts and Methodology, End to end lifecycle stages, in depth focus into the following key techniques
 - Core ML Methods
@@ -123,7 +123,7 @@ All about Core Machine Learning - Supervised, Unsupervised, Reinforcement
   - [Christopher Bishop's Pattern Recognition and ML Book](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - Auto ML capabilities and practical implementation strategies using various Cloud platforms such as AWS, Azure, IBM and GCP
 
-## (Step:  2) Deep Learning Fundamentals
+# 7. (Step:  2) Deep Learning Fundamentals
 
 - [Deep Learning](https://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville (2015)
 - Deep Dive around Deep Learning [with D2L.ai](https://d2l.ai/index.html) and Core Foundational aspects as well
@@ -150,7 +150,7 @@ Other references on fundamentals:
 - [Amazon ML University related Computer Vision GitHub reference](https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv)
 
 
-## (Step:  3) Delve into some depth around ML and DL
+# 8. (Step:  3) Delve into some depth around ML and DL
 
 - Understand Use Case themes and Use Cases that are potentially needed to be solved with the help of ML, DL and AI as a whole. [Pls refer here for some glance at use case](https://github.com/kkm24132/Mentoring_Enablement#business-use-cases-by-industry-illustrative)
 - Go through few use cases and try solving use case(s) - be it from forums such as Kaggle or from your existing ecosystem or firm and/or something equivalent. This will give first hand exposure of end to end applied Data Science.
@@ -171,7 +171,7 @@ Other references on fundamentals:
   - HyperOpt-sklearn
   - AutoKeras
 
-## (Step:  4) Deep dive into ML and DL
+# 9. (Step:  4) Deep dive into ML and DL
 
 - Dive into Deep Learning - [with D2L.ai](https://d2l.ai/index.html)
 - Applications and Use Cases leveraging CNN, RNN, LSTM
@@ -179,7 +179,7 @@ Other references on fundamentals:
 - Research based thinking / analysis to solve novel problems / methods / approaches
 - [Full stack Deep Learning - deploy AI solutions in real world](https://course.fullstackdeeplearning.com/)
 
-## (Step: Infinity) Continuous Learning, Stay Current
+# 10. (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 
 - ML Pipeline illustrative view using GCP
@@ -188,7 +188,9 @@ This is all about continuous learning - what I refer as CD learning - Continuous
 
 - MLOps [MLOps Tooling Landscape](https://lnkd.in/g97vipX) 
 
-# Business Use Cases by Industry (Illustrative)
+# 11. Additional References 
+
+## Business Use Cases by Industry (Illustrative)
 
 Industry / Domain Area|Use Case Description
 ----------------------|--------------------
@@ -205,14 +207,14 @@ Industry / Domain Area|Use Case Description
 
 The advantages of ML are useful where large dataset is available. Large scale deployments of ML is beneficial in terms of improved velocity and accuracy. It helps in understanding non-linearity of the data and generates a function mapping input to ouput from supervised learning standpoint. Lot of aspects around supervised, unsupervised and reinforced learning can be performed. This by and large ensures better profiling of customers to understand their needs. It helps serve customers better and reduce customer attrition.
 
-# Quick Guideline points for Beginner and Intermediate levels
+## Quick Guideline points for Beginner and Intermediate levels
 
 Level in Data and AI|Guideline or Checklist points
 --------------------|-----------------------------
 [Level 1]<br>**Beginner Level** | **Level 1: Beginner Stage**<ul><li>1: Academia background of Mathematics and Statistics<li>2: Exposure to Programming skills<li>2.1: Concepts of fundamentals in programming languages such as Python and R<li>2.2: Style aspect for Python and R - mentioned above as a suggestion<li>2.3: Readability - Has comments, indentation as per style guide<li>2.4: Modular - code is broken into small parts, functions, sub-routines as needed<li>2.5: Flow of control - code should perform what it is meant for<li>3: Understanding of Story telling<li>4: Understanding of Methodology to drive business problems to data problems<li>5: Understanding of Business KPIs and Drivers<li>6: Exposure to environment, tools and technologies at a high level<li>7: Exposure to Python or R<li>8: Data Visualization and EDA</ul>
 [Level 2]<br>**Intermediate Level** | **Level 2: Intermediate Stage**<ul><li>1: Understanding of all that is required at a "Beginner Level"<li>2: Ability to formulate different techniques for a problem<li>3: GFamiliarity with Python and R with a grip on one of those strongly<li>4: Strong applied skills in EDA<li>5: Strong story telling and Data visualization<li>6: Machine Learning<li>7: Deep Learning</ul>
 
-# Data Visualization and Storytelling
+## Data Visualization and Storytelling
 Below are some of references that can be referred for learning (but not exhaustive list by any means)
 
 - [DV guidelines by Edward Tufte](https://www.edwardtufte.com/tufte/)
@@ -229,9 +231,9 @@ Below are some of references that can be referred for learning (but not exhausti
 Reference: https://github.com/apache/incubator-superset
 Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
-# Miscellaneous References
+## Miscellaneous References
 
-## Learning Reference for Probability and Stats
+### Learning Reference for Probability and Stats
 
 - Towardsdatascience
 - Elitedatascience
@@ -244,7 +246,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - Alison
 - Guru99
 
-## Sites / References to learn Python 
+### Sites / References to learn Python 
 
 - [Python for Beginners - 1](https://www.python.org/about/gettingstarted/)
 - [Python for Beginners - 2](https://www.pythonforbeginners.com/basics/)
@@ -260,7 +262,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [CheckiO](https://checkio.org/)
 
-## Datasets For Exploration and Usage
+### Datasets For Exploration and Usage
 
 - [Google Datasets](https://ai.google/tools/datasets/)
 - [Data.world](https://data.world/)
@@ -275,7 +277,7 @@ Apache Superset (incubating) is a modern, enterprise-ready business intelligence
 - [Academic Torrents](http://academictorrents.com/)
 - This is a great compilation of [Awesome Public DataSets](https://github.com/awesomedata/awesome-public-datasets) as well
 
-## Computer Vision
+### Computer Vision
 Computer Vision is a sub branch of AI whose objective is to provide computers the powerful ability to understand their sorrounding by seeing the things more than hearing or feeling, just like humans. Kind of mimicing human ability to interpret by learning certain aspects.
 Some applications of Computer Vision are as follows:
 
@@ -289,7 +291,7 @@ Some applications of Computer Vision are as follows:
 - Recognize actions
 - Track objects in action
 
-## NLP
+### NLP
 
 - Key methods to look for: word2vec, ELMo, ULMFiT, GPT, BERT, RoBERTa, GloVe, InferSent, skip-thought
 - While using AWS Comprehend try to understand an exposure towards how does it work [Refer AWS Comprehend here for NLP](https://aws.amazon.com/getting-started/hands-on/analyze-sentiment-comprehend/)
@@ -316,15 +318,15 @@ GloVe  |Global Vectors for word representation | Unsupervised learning algorithm
   - [UCI spambase dataset - for classifying emails as spam or non-spam](https://archive.ics.uci.edu/ml/datasets/Spambase)
 
 
-## Experiments
+# 12. Experiments with sample solutions
 
-### Part 1: R Programming with univariate and bivariate analysis
+## Part 1: R Programming with univariate and bivariate analysis
 These are program components which are used for mentoring purposes
 
-### Part 2: Time series Forecasting in R
+## Part 2: Time series Forecasting in R
 These are program components which are used for mentoring purposes
 
-### Predict Web Page Tags based on its content
+## Predict Web Page Tags based on its content
 Classification of Web page content is vital to many tasks in Web information retrieval such as maintaining Web
 directories and focused crawling. The uncontrolled nature of Web content presents additional challenges to Web page
 classification as compared to traditional text classification, however the interconnected nature of hypertext
