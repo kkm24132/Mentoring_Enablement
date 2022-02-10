@@ -1,8 +1,9 @@
+# 1. The Premise
+
 **What does it take to execute our "strategy" - true power knows no bounds? What does it take to pursue our passion or short burst? Education and Learning is key to success and empowerment!! With my experience around Data Science and AI, solving business problems for global clients across industries at scale, mentoring and building teams for success, defining roadmap for maturity assessments, and many more, I strongly recommend structured "thinking" and "planning" to accomplish our goals and outcomes, which can create impact and value.**
 
 
-
-### **The content here is focusing on the following:**
+## **The content here is focusing on the following:**
 
 * a) My recommended **7 + 1 steps** for Data Science and AI mentoring approach
 * b) Quick **guideline points** / kind of a checklist of what to look for across various levels (Beginner, Intermediate etc.)
@@ -10,11 +11,19 @@
 * d) **References** about some key areas
 
 
-# Data Science and AI Mentoring Approach - My 7+1 steps
+# 2. Data Science and AI Learning Approach - My 7+1 steps
 _(Step -2, -1, 0, 1, 2, 3, 4 and Infinity)_
 
 ### Objective
-is to provide some thoughts, pointers around Data Science and AI for my mentees to get a direction. I get an opportunity to learn from them, my team and everyone that I interact and collaborate across around this theme.
+Goal is to provide some thoughts, pointers around Data Science and AI for learners, data science aspirants and data science practitioners to get a direction. I get an opportunity to learn from them, my team and everyone that I interact and collaborate across around this theme.
+
+- Target Audience wise pointers:
+  - If you are a student / fresher with no experience - Focus initially on Core, Breadth and Depth of Data Science and prioritize some key areas such as Probability, Statistics, Linear Algebra, Data Visualization, Data Munging, Data Wrangling, EDA, Fundamentals of ML methods
+  - If you are a working professional with no prior DS experience - All above points + Business use case focus + SDLC process + Cloud essentials + Productionization of ML solutions + Value from Data and AI etc
+  - If you are a working professional with 0-10 yrs of experience and working as a DS practitioner - You would have gone through most of these. However, please continue to focus and accelerate your understanding. More focus on DS/ML best practices, end to end implementation aspects
+  - If you are a working professional with 10+ yrs of experience and working as a DS practitioner - All points + Thought Leadership 
+  - All DS practitioners have to maintain GitHub to some extent (varies based on roles such as Research Scientist, Principal Data Scientist, Applied Data and AI scientist, ML Engineer, Data Analyst, Data Scientist, Data Engineer, Data Journalist, Director Data Science, VP Data Science, Chief Data Scientist roles etc.)
+  - For all roles, it is encouraged to have innovation mindset: Patents, Publications, Writing Blogs on forums such as Medium.com 
 
 ### My Recommendation
 Data Science is a journey and there are no short cuts around it like everything else where we want get into success. Let me also be very clear and request some of these key points to my mentees and whoever is reading this content. The content we need depends on the objectives that we would intend to pursue in life. The foundations and interpretations may vary depending on what we want to accomplish in a specific span - a Data Science Practitioner, Applied Data Scientist, Research Scientist and so on. Every role would expect us to get into different flavours of understanding and focus.
