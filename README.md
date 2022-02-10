@@ -77,7 +77,7 @@ CRISP-DM stands for Cross Industry Standard Process for Data Mining. It talks ab
   - [Feature transformation and creation](https://www.linkedin.com/feed/update/urn:li:activity:6803690451951083521)
 
 - Data Science and AI Forums: Some of the following Data and AI forums can be considered for learning purposes, participating and collaborating in real-life projects or initiatives: 
-  - [Kaggle forum](www.Kaggle.com)
+  - [Kaggle forum](https://www.kaggle.com/)
   - [DS competitions to build a better world](https://www.drivendata.org/)
   - [Enabling impact organizations to collaborate and work on a project to solutionize asap](https://omdena.com/)
   - [Crowd Analytics collaboration](https://www.crowdanalytix.com/community)
