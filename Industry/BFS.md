@@ -13,6 +13,16 @@ Use Case areas:
 
 These are non-exhaustive and gives a very high level indication of key use case themes.
 
+## Marketing Analytics
+- Detailed Lead Scoring
+- Lead Segmentation for Campaign Nurturing
+- Targeted Content Distribution
+- Lifetime Value Prediction
+- Churn Rate Prediction
+- Upselling and Cross-Selling Readiness
+- Understanding Product Fit
+- Optimization of Marketing Campaigns
+
 ## CRM Analytics
 
 - Use Case Themes:
