@@ -106,9 +106,23 @@ These are non-exhaustive and gives a very high level indication of key use case 
 
 ![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics1.png)
 
-
 ![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics2.png)
 
+
+- Approach to Financial Crime Analytics / Fraud Analytics
+  - Objective: Identify potential patterns and anomalies that may lead to discovery of evidence of fraud, vandalism etc
+  - Checks:
+    - Customer Onboarding
+    - Customer Due Diligence
+    - Customer Monitoring 
+  - Surveillance Ops
+    - Automation of screening, Prioritisation of alerts, model validation against business rules, control testing analytics
+  - Focus Action Areas of Use Case themes:
+    - Digital Verification: Verify Customer Documentation, Customer Risk Rating Framework to accelerate approval workflow 
+    - Due Diligence Analytics: Predict behaviour based on historical transactions
+    - Surveillance Analytics: Usage of ML to improve efficiency of surveillanve models, Single Customer View for analysis
+    - Regulatory Analytics: Automated Reporting, AML process, AML transaction visualisation and monitoring
+    - Data amalgamation: Better collaboration of data and improve controls 
 
 ## Hands-On Use Cases
 
