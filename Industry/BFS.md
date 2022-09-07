@@ -109,7 +109,7 @@ These are non-exhaustive and gives a very high level indication of key use case 
 ![FraudAnalytics1](https://github.com/kkm24132/Mentoring_Enablement/blob/master/Industry/figure/FraudAnalytics2.png)
 
 
-- Approach to Financial Crime Analytics / Fraud Analytics
+## Approach to Financial Crime Analytics / Fraud Analytics
   - Objective: Identify potential patterns and anomalies that may lead to discovery of evidence of fraud, vandalism etc
   - Checks:
     - Customer Onboarding
@@ -124,10 +124,7 @@ These are non-exhaustive and gives a very high level indication of key use case 
     - Regulatory Analytics: Automated Reporting, AML process, AML transaction visualisation and monitoring
     - Data amalgamation: Better collaboration of data and improve controls 
 
-## Hands-On Use Cases
 
-- Loan Approval Prediction
-
-
+Here is an example of POV that we did in [Vandalism Fraud Analytics](https://medium.datadriveninvestor.com/vandalism-fraud-analytics-in-banking-and-financial-services-17c25f0c5a1f) space.
 
 
