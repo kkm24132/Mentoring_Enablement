@@ -144,6 +144,7 @@ Sequence of recommended learning could be 2a, 2b, 2c, 2d, 2e etc.
 - [CNN for visual recognition - CS231n:Part3: Learning and evaluation](https://cs231n.github.io/neural-networks-3/)
 
 Other references on fundamentals:
+- [PyTorch Fundamentals - Course Material](https://www.learnpytorch.io/#course-materialsoutline) and [Course Video](https://www.youtube.com/watch?v=V_xro1bcAuA)
 - [Intro to deep learning and neural networks](https://www.analyticsvidhya.com/blog/2018/10/introduction-neural-networks-deep-learning/)
 - [Improving neural networks with Hyper parameter tuning, Regularization and Others](https://www.analyticsvidhya.com/blog/2018/11/neural-networks-hyperparameter-tuning-regularization-deeplearning/)
 - [CNN from scratch](https://www.analyticsvidhya.com/blog/2018/12/guide-convolutional-neural-network-cnn/)
