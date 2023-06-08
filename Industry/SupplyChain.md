@@ -26,9 +26,17 @@ Data Science and AI has several applications in the supply chain function. Some 
 ### Operational Challenges
 
 - Data quality and availability
+  - Need for data curation
+  - Need for business relevant data 
 - Data integration and compatibility
+  - Typically need for integration across ERP, Transportation management systems, Warehouse management systems make it complex for integration and harmonization
+  - data with different formats
+  - Ensuring seamless data flow across systems from source to target is critical 
 - Change management and organisational alignment
 - Talent and skill gap
+  - domain + tech skills are rare to find
+  - finding and retaining talent 
+  - balance between upskilling existing employees and hiring new talents (build vs buy to decide as well)
 - Model explainability and transparency
 - Scalability and adaptability
 - Ethical considerations
