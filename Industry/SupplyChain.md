@@ -3,6 +3,8 @@
 
 ### Typical Use Cases
 
+Data Science and AI has several applications in the supply chain function. Some key use cases are as follows:
+
 - Demand Forecasting: AI algorithms can analyze historical sales data, market trends, and external factors to generate more accurate demand forecasts. This helps organizations optimize inventory levels, reduce stockouts, and improve customer satisfaction.
 
 - Inventory Optimization: AI can optimize inventory levels by analyzing factors such as lead times, customer demand patterns, and supplier performance. By dynamically adjusting reorder points, safety stock levels, and replenishment schedules, AI helps minimize carrying costs while ensuring adequate stock availability.
