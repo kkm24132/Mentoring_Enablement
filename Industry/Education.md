@@ -10,13 +10,16 @@ to reflect a broadening understanding of student success and establish children�
 
 The opportunities around use cases are immense. Some of them are listed below to give a flavor.
 
-- Student Assessment Data Analysis
-- Social and Behavioural Skills
+- 1) Personalized Learning for STUDENTS
+  - AI tutoring systems have been around for several years. Their progress and utility are likely to be bolstered by advancements
+in generative AI through dialogue-based tutoring, which can receive a written or spoken response which is then evaluated with feedback. Providing appropriate controls are in place, generative AI can play a role in permitting educators to build more personalized learning plans for students, allowing students to receive more adaptive and frequent feedback. This could be powerful for students who struggle with traditional learning or have particular learning needs.
+- 2) Student Assessment Data Analysis for TEACHERS/PROFESSORS
+- 3) Social and Behavioural Skills
   - How teachers can detect whether students can use their social skills during the classes or not
   - Helping students enhance their personality development
   - Also, they will be able to pay extra attention to students who need ‘help’ and conduct sessions with counselors or therapists 
-- Parents / Carers interaction effectiveness
-- Keep up to date with the curriculum
+- 4) Parents / Carers interaction effectiveness
+- 5) Keep up to date with the curriculum for TEACHERS/PROFESSORS
 - Instructor performance
 - Student's demographics
 
