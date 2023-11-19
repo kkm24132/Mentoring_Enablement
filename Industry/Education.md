@@ -1,6 +1,11 @@
 
 ## Industry: Education
 
+There are different ways Data Science and AI can help drive benefits in the Education industry. The core is to see how to help educators as they navigate the evolving digital landscape. The core will be students, teachers/professors and support staff to drive outcomes.
+
+The approach can certainly be a safety-first one to ensure that we are minimizing the risks, we are maximizing safety and security for our students and our teachers/professors, but also a cautiously ambitious approach as well to make sure that the ecosystem can get the most value out of the opportunities created by artificial intelligence in education.
+
+
 - Student Assessment Data Analysis
 - Social and Behavioural Skills
   - How teachers can detect whether students can use their social skills during the classes or not
