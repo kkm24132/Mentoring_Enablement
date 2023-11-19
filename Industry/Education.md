@@ -20,6 +20,5 @@ in generative AI through dialogue-based tutoring, which can receive a written or
   - Also, they will be able to pay extra attention to students who need ‘help’ and conduct sessions with counselors or therapists 
 - 4) Parents / Carers interaction effectiveness
 - 5) Keep up to date with the curriculum for TEACHERS/PROFESSORS
-- Instructor performance
-- Student's demographics
+
 
