@@ -184,6 +184,8 @@ Other references on fundamentals:
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 Learn some basics around Generative AI:
 - [Generative AI Basics from LinkedIn Learning](https://lnkd.in/ecnYgiqb)
+- [Foundations of Prompt Engineering from AWS](https://lnkd.in/e3Ww6pDz)
+- [ChatGPT Prompt Engineering for Developers from Deeplearning.AI](https://lnkd.in/eKzysUbR)
 
 - ML Pipeline illustrative view using GCP
 
