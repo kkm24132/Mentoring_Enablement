@@ -322,6 +322,8 @@ GloVe  |Global Vectors for word representation | Unsupervised learning algorithm
   - [Recommender systems datasets (from various sites, reviews etc](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
   - [UCI spambase dataset - for classifying emails as spam or non-spam](https://archive.ics.uci.edu/ml/datasets/Spambase)
 
+## SCAMPER technique/framework in Data Science
+The SCAMPER technique is an acronym that stands for Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Reverse. Each letter represents a different way of approaching a problem or challenge. Please check in your problem-solving in Data Science if SCAMPER is applied. If yes, how and where? This will help organize your problem-solving better in the Data Science use case.
 
 # 12. Experiments with sample solutions
 
