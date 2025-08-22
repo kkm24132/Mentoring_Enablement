@@ -180,6 +180,10 @@ Other references on fundamentals:
 - Research based thinking / analysis to solve novel problems / methods / approaches
 - [Full stack Deep Learning - deploy AI solutions in real world](https://course.fullstackdeeplearning.com/)
 
+Reinforcement Learning
+- [Hugging Face - Deep RL course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [Bootcamp from UC Berkeley](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 # 10. (Step: Infinity) Continuous Learning, Stay Current
 This is all about continuous learning - what I refer as CD learning - Continuous Deep Learning. Sky is the limit. Keep yourself up to date and continue to learn. There is no end to it.
 Learn some basics around Generative AI:
